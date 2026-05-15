@@ -1,0 +1,298 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1287BF5E54C21D57"
+	group: "01328A6FE6C6CD1E"
+	icon: "mekanism:hazmat_mask"
+	id: "1287BF5E54C21D57"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1F9332897B851777"
+			tasks: [{
+				id: "76EAA09E8E0EBE54"
+				item: "nuclearcraft:fuel_uranium_leu_235"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1F9332897B851777"]
+			id: "7285A5D1BCF39A24"
+			tasks: [{
+				id: "3C2BF43C41FCF4F1"
+				item: "nuclearcraft:fuel_uranium_leu_235_ox"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"7285A5D1BCF39A24"
+				"12400A850A461351"
+			]
+			id: "193E16341D597DF0"
+			tasks: [{
+				id: "2CF132F0F8624B77"
+				item: "nuclearcraft:depleted_fuel_uranium_leu_235_ox"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "562D7B4E0CA61D2A"
+			tasks: [{
+				id: "4B09B2E9D0722DD5"
+				item: {
+					Count: 1
+					id: "forestry:circuit_board_basic"
+					tag: {
+						T: 0s
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["562D7B4E0CA61D2A"]
+			id: "12400A850A461351"
+			tasks: [{
+				id: "793CCEF6C7AE5E73"
+				item: "nuclearcraft:fission_reactor_controller"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["193E16341D597DF0"]
+			id: "6B1FE3C1B9099640"
+			tasks: [{
+				id: "39A88176211491F4"
+				item: "mekanism:pellet_polonium"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3FC5004647E92E75"]
+			id: "2DD0919C6323C3CB"
+			shape: "square"
+			tasks: [{
+				id: "2B92FA65851B6772"
+				item: "ballistix:nuclear"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"193E16341D597DF0"
+				"0984E8B98B2D1B3E"
+			]
+			id: "67F7EA1397D2E202"
+			tasks: [{
+				id: "2A1CCB7D6592471E"
+				item: "mekanism:pellet_plutonium"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["67F7EA1397D2E202"]
+			id: "3FC5004647E92E75"
+			tasks: [{
+				id: "5416ED7B0D87D433"
+				item: "nuclearcraft:plutonium_239"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["67F7EA1397D2E202"]
+			id: "52C4FD27098D9260"
+			tasks: [{
+				id: "7364D3A1F7874486"
+				item: "nuclearcraft:plutonium_238"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["52C4FD27098D9260"]
+			id: "24B5A372FCDC3820"
+			shape: "square"
+			tasks: [{
+				id: "6A46DB41544ADD33"
+				item: "nuclearcraft:plutonium_rtg"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["67F7EA1397D2E202"]
+			id: "0013FBB907C9DE82"
+			tasks: [{
+				id: "55174D5E8B016654"
+				item: "nuclearcraft:plutonium_241"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0013FBB907C9DE82"]
+			id: "0B1EC46B421DA5DF"
+			tasks: [{
+				id: "54CB35DB66E24FEC"
+				item: "bigreactors:blutonium_ingot"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0B1EC46B421DA5DF"]
+			id: "288C0AA1F61055F5"
+			tasks: [
+				{
+					id: "3B0B33AB98B386CD"
+					item: "nuclearcraft:americium_241"
+					type: "item"
+				}
+				{
+					id: "2D9EEC40DB12E4A8"
+					item: "nuclearcraft:americium_241"
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0B1EC46B421DA5DF"]
+			id: "56436FDC57C289F9"
+			tasks: [{
+				id: "7BFC94394F3DEF4F"
+				item: "nuclearcraft:curium_246"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["562D7B4E0CA61D2A"]
+			id: "66F1E0A4BE63F05C"
+			tasks: [{
+				id: "3DEFAB35E1A821D1"
+				item: "nuclearcraft:fission_reactor_irradiation_chamber"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["562D7B4E0CA61D2A"]
+			id: "0984E8B98B2D1B3E"
+			tasks: [{
+				id: "46261728F84A384D"
+				item: "nuclearcraft:fuel_reprocessor"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["562D7B4E0CA61D2A"]
+			id: "61BCF34E2BCA962C"
+			tasks: [{
+				id: "65F608FD4B63F1A2"
+				item: "nuclearcraft:fission_reactor_port"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["288C0AA1F61055F5"]
+			id: "5717BD0AF5F29995"
+			shape: "square"
+			tasks: [{
+				id: "2C7606B8DC947CEF"
+				item: "mekanism:industrial_alarm"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["66F1E0A4BE63F05C"]
+			id: "19ECB421A522D665"
+			tasks: [{
+				id: "2BBD22638C3580AC"
+				item: "nuclearcraft:irradiator"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["19ECB421A522D665"]
+			id: "7B3D8CFCE3902DCB"
+			tasks: [{
+				id: "5E5BA1226835D854"
+				item: "nuclearcraft:irradiated_lithium_bucket"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7B3D8CFCE3902DCB"]
+			id: "25221ACC65A99A3D"
+			tasks: [{
+				id: "6AC288F2EEEE5E4F"
+				item: "nuclearcraft:tritium_bucket"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["25221ACC65A99A3D"]
+			id: "0340EB404BC234A4"
+			shape: "square"
+			tasks: [{
+				id: "2F767F19E223DCC1"
+				item: "ballistix:antimatter"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["19ECB421A522D665"]
+			id: "2C21549A5099A92E"
+			tasks: [{
+				id: "2C8041A21F681D91"
+				item: "nuclearcraft:silicon_n_doped"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 2.5d
+		}
+	]
+	title: "原子工业"
+}

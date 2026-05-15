@@ -1,0 +1,230 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "51F5E95A8F3214A6"
+	group: "1B5246E5C955D37F"
+	icon: "minecraft:flint"
+	id: "51F5E95A8F3214A6"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7544FA810AC8716C"
+			tasks: [{
+				id: "6BB2AE8CA821BFDA"
+				item: "minecraft:stick"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			id: "29888CC4142014F1"
+			tasks: [{
+				id: "47CF88A81C2AEBC0"
+				item: "minecraft:flint"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["29888CC4142014F1"]
+			id: "7374DD56C0AD598A"
+			tasks: [{
+				id: "659A6FF52E80D806"
+				item: {
+					Count: 1
+					id: "ytech:sharp_flint"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7374DD56C0AD598A"]
+			id: "46DE98318B7D383D"
+			tasks: [{
+				id: "3C9B40153A7DC025"
+				item: "ytech:grass_fibers"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["46DE98318B7D383D"]
+			id: "11FB1A4774E3C07B"
+			tasks: [{
+				id: "3F279A32BFEED84E"
+				item: "ytech:grass_twine"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"11FB1A4774E3C07B"
+				"7544FA810AC8716C"
+			]
+			id: "0E0ADF1DD44CD01C"
+			tasks: [{
+				id: "00CB443710FEAC91"
+				item: {
+					Count: 1
+					id: "ytech:flint_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0E0ADF1DD44CD01C"]
+			id: "770F9AE31902989F"
+			tasks: [{
+				id: "69652D1CD804AB0E"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "Any #minecraft:logs"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["770F9AE31902989F"]
+			id: "75F35869E5EF8123"
+			tasks: [{
+				id: "3E518970EF1F9A54"
+				item: "ytech:tree_stump"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"75F35869E5EF8123"
+				"770F9AE31902989F"
+			]
+			id: "22FCA032F06927B5"
+			tasks: [{
+				id: "56584F559D813733"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:planks"
+					}
+				}
+				title: "Any #minecraft:planks"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["22FCA032F06927B5"]
+			id: "5EB36CE251C954A7"
+			tasks: [{
+				id: "5EA50430EFD9573A"
+				item: "tconstruct:pattern"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"22FCA032F06927B5"
+				"5EB36CE251C954A7"
+			]
+			id: "45858B127879F526"
+			tasks: [{
+				id: "5691506BC496A542"
+				item: "tconstruct:part_builder"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"770F9AE31902989F"
+				"5EB36CE251C954A7"
+			]
+			id: "5D9BE27F55752452"
+			tasks: [{
+				id: "13F38689F1623EFA"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:workbenches"
+					}
+				}
+				title: "Any #forge:workbenches"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"22FCA032F06927B5"
+				"5EB36CE251C954A7"
+			]
+			id: "5140AFC6A00FA179"
+			tasks: [{
+				id: "2D6BDE579C1DDDCB"
+				item: "tconstruct:tinker_station"
+				type: "item"
+			}]
+			x: 15.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["22FCA032F06927B5"]
+			id: "66311F54313009A3"
+			tasks: [{
+				id: "13C8E85D9376E4BA"
+				item: "butchersdelight:roaster"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7544FA810AC8716C"]
+			id: "08FDC87F7A753C59"
+			tasks: [{
+				id: "3C1E00AEF07021F7"
+				item: {
+					Count: 1
+					id: "ytech:flint_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: -4.0d
+		}
+	]
+	title: "打制石器"
+}

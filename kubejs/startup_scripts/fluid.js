@@ -1,0 +1,10 @@
+StartupEvents.registry('fluid', event => {
+    event.create('paper_pulp')
+      .thinTexture(0xCCDDFF)
+      .bucketColor(0xCCDDFF)
+      .displayName('paper_pulp')
+    event.create('injecting_fuel')
+      .thickTexture(0x111122)
+      .bucketColor(0x111122)
+      .displayName('injecting_fuel')
+})

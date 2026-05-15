@@ -1,0 +1,52 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2EC4EE69F646B1B9"
+	group: ""
+	icon: {
+		Count: 1
+		id: "minecraft:player_head"
+		tag: {
+			SkullOwner: {
+				Id: [I;
+					-629478595
+					-1946925696
+					-1246254147
+					-1981206684
+				]
+				Name: "N2FFFFFFFF"
+				Properties: {
+					textures: [{
+						Value: "ewogICJ0aW1lc3RhbXAiIDogMTczNTcwMTYzNjMyMiwKICAicHJvZmlsZUlkIiA6ICJkYTdhZWIzZDhiZjQ0NTgwYjViN2FiYmQ4OWU5MmY2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOMkZGRkZGRkZGIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RiNzYxNjgxZGY2ZmRiZWRiOGRjOGU3MWQ4NzMwZjI4YzRmNmRmOTk4MTU2OTJhZjg2ZDZlNDZiYjhmMzkzZTMiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNDBjMGUwM2RkMjRhMTFiMTVhOGIzM2MyYTdlOWUzMmFiYjIwNTFiMjQ4MWQwYmE3ZGVmZDYzNWNhN2E5MzMiCiAgICB9CiAgfQp9"
+					}]
+				}
+			}
+		}
+	}
+	id: "2EC4EE69F646B1B9"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "130B70001F466CA2"
+		rewards: [{
+			auto: "enabled"
+			icon: "ftbquests:book"
+			id: "054329CFD0B35E4D"
+			ignore_reward_blocking: true
+			item: "ftbquests:missing_item"
+			team_reward: true
+			title: "打开背包左上角任务书"
+			type: "item"
+		}]
+		tasks: [{
+			dimension: "minecraft:overworld"
+			icon: "farmersdelight:dumplings"
+			id: "129E015DEFC5EFE2"
+			title: "欢迎使用联合生产整合包"
+			type: "dimension"
+		}]
+		x: 2.5d
+		y: 1.5d
+	}]
+	title: "作者贴吧/b站名：Na2He_"
+}

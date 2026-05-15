@@ -1,0 +1,152 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "5D7D897B5C7708BD"
+	group: "214CC005E72A5484"
+	icon: "minecraft:netherrack"
+	id: "5D7D897B5C7708BD"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1A4D2FC5DCA785CF"]
+			id: "0C9EECCDECF15A80"
+			tasks: [{
+				id: "3D36B620E1DD5C45"
+				item: "minecraft:crying_obsidian"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0C9EECCDECF15A80"]
+			id: "3261F74510A0FF93"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "5C0D9A302690A19D"
+				type: "dimension"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3261F74510A0FF93"]
+			id: "74A1DD2B73CB5AE1"
+			tasks: [{
+				id: "1D2BA54B86A68E23"
+				item: "minecraft:netherrack"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3261F74510A0FF93"]
+			id: "0113337C8E43191B"
+			tasks: [{
+				id: "37E1AC01DAE8B9D9"
+				item: "minecraft:glowstone_dust"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3261F74510A0FF93"]
+			id: "562CAFE04644A9D4"
+			tasks: [{
+				id: "6FC00302DF3E16DB"
+				item: "minecraft:soul_sand"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["74A1DD2B73CB5AE1"]
+			id: "7E691B77F724A8A6"
+			tasks: [{
+				id: "21ADC357D6C01661"
+				item: "create:cinder_flour"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["74A1DD2B73CB5AE1"]
+			id: "384A6DCABAA50EE5"
+			tasks: [{
+				id: "3AD92C274925944B"
+				item: "minecraft:wither_skeleton_skull"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"384A6DCABAA50EE5"
+				"562CAFE04644A9D4"
+			]
+			id: "4747B13E06CBD084"
+			shape: "square"
+			tasks: [{
+				id: "090C261D2D595B52"
+				item: "minecraft:nether_star"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -2.5d
+		}
+		{
+			id: "1A4D2FC5DCA785CF"
+			tasks: [{
+				id: "239649C64B57BD95"
+				item: "minecraft:amethyst_shard"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3261F74510A0FF93"]
+			id: "13FCF9CB0D93CA1F"
+			tasks: [{
+				id: "2466D1B5B4B517B3"
+				item: "minecraft:soul_soil"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["74A1DD2B73CB5AE1"]
+			id: "227EAE406F7F6A16"
+			tasks: [{
+				id: "4DE5F56EB6B8CFFF"
+				item: "minecraft:blaze_powder"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"227EAE406F7F6A16"
+				"7E691B77F724A8A6"
+				"562CAFE04644A9D4"
+			]
+			id: "2A0F7B41CB2978CB"
+			tasks: [{
+				id: "6DA55072DEB26723"
+				item: "tconstruct:nether_grout"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 0.0d
+		}
+	]
+	title: "深入下界"
+}

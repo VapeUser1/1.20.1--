@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:melting",
+  "byproducts": [
+    {
+      "amount": 90,
+      "tag": "forge:molten_cast_iron"
+    }
+  ],
+  "ingredient": {
+    "item": "kubejs:iron_powder"
+  },
+  "result": {
+    "amount": 180,
+    "tag": "forge:magma"
+  },
+  "temperature": 750,
+  "time": 180
+}

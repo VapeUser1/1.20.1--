@@ -1,0 +1,238 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "09524AE56F40C9D8"
+	group: "2E2736AAC479FA15"
+	icon: "steampowered:steel_steam_engine"
+	id: "09524AE56F40C9D8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2BEAFB547FA09D06"
+			tasks: [{
+				id: "11C5D3C304F4AA8E"
+				item: "createbigcannons:nethersteel_ingot"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2BEAFB547FA09D06"
+				"592FFB278E3A909A"
+			]
+			id: "3D550F517EF4D797"
+			tasks: [{
+				id: "197749E9EF5B3E66"
+				item: "createbigcannons:cannon_drill"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3D550F517EF4D797"]
+			id: "39252FC0B626E0AA"
+			tasks: [{
+				id: "2323BD71423FD4D6"
+				item: "createbigcannons:built_up_steel_cannon_barrel"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["39252FC0B626E0AA"]
+			id: "6DAAF9AE84AD5056"
+			tasks: [{
+				id: "68F52E41D55090E2"
+				item: "steampowered:steel_steam_engine"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2BEAFB547FA09D06"]
+			id: "6A0CC1A5ED3B86E4"
+			tasks: [{
+				id: "6C2C51000B7F615B"
+				item: "thermal:saw_blade"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2BEAFB547FA09D06"]
+			id: "592FFB278E3A909A"
+			tasks: [{
+				id: "5DAC295B2D0A44B5"
+				item: "thermal:drill_head"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6A0CC1A5ED3B86E4"]
+			id: "2458693962F815FC"
+			tasks: [{
+				id: "689D967B967BC44F"
+				item: "create:mechanical_saw"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["592FFB278E3A909A"]
+			id: "478F628EABD06FC1"
+			tasks: [{
+				id: "346E50448EBA0DFC"
+				item: "create:mechanical_drill"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			id: "2E01EA753A801DFB"
+			tasks: [{
+				id: "5883400623A34F0E"
+				item: "immersiveengineering:workbench"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2E01EA753A801DFB"]
+			id: "7C52663954B764D9"
+			tasks: [{
+				id: "4739F7A61BECBDA6"
+				item: "create:brass_hand"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7C52663954B764D9"]
+			id: "652137F0639B0AE5"
+			tasks: [{
+				id: "6E547A3B1E7020BE"
+				item: "create:deployer"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"478F628EABD06FC1"
+				"2458693962F815FC"
+				"652137F0639B0AE5"
+				"6B5173985EC20E45"
+			]
+			id: "4A72E95D1931A72C"
+			tasks: [{
+				id: "0DB3BA288E6378FE"
+				item: "create:incomplete_precision_mechanism"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4A72E95D1931A72C"]
+			id: "2A01B2DD9CA5A45D"
+			tasks: [{
+				id: "4F04C2C1E20086A6"
+				item: "create:precision_mechanism"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"2A01B2DD9CA5A45D"
+				"6DAAF9AE84AD5056"
+			]
+			id: "44ADDADFC7D8ECE6"
+			tasks: [{
+				id: "49CE19587FE2D656"
+				item: "create:steam_whistle"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2A01B2DD9CA5A45D"]
+			id: "40B32F98CB9FD5D4"
+			tasks: [{
+				id: "6452C485C3717B07"
+				item: "immersiveengineering:light_engineering"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["592FFB278E3A909A"]
+			id: "6B5173985EC20E45"
+			tasks: [{
+				id: "06B4821646F19215"
+				item: "vintageimprovements:lathe"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2A01B2DD9CA5A45D"]
+			id: "124BE76C5F8F0628"
+			tasks: [{
+				id: "4FF1D743834EAEEA"
+				item: "mekanism:boiler_valve"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2A01B2DD9CA5A45D"]
+			id: "46EDE375B1F03B9A"
+			shape: "square"
+			tasks: [{
+				id: "581D8C3896CD0EB1"
+				item: {
+					Count: 1
+					id: "musketmod:pistol"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["40B32F98CB9FD5D4"]
+			id: "3B015B22BBFB0B18"
+			tasks: [{
+				id: "3B3BF274956EC539"
+				item: "immersivetechnology:boiler_tank"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 0.0d
+		}
+	]
+	title: "蒸汽动力"
+}

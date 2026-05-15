@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "createbigcannons:block_nethersteel"
+  },
+  "result": {
+    "amount": 810,
+    "tag": "forge:molten_nethersteel"
+  },
+  "temperature": 750,
+  "time": 180
+}

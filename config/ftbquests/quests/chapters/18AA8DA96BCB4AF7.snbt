@@ -1,0 +1,173 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "18AA8DA96BCB4AF7"
+	group: "300B14D697E47AEC"
+	icon: "advgenerators:turbine_tier1"
+	id: "18AA8DA96BCB4AF7"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "389DC24B4388C247"
+			tasks: [{
+				id: "178A19FCA2922A75"
+				item: "thermal:invar_ingot"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			id: "1EA1F42F625B1C65"
+			tasks: [{
+				id: "0DB662453162112C"
+				item: "tinkers_reforged:duralumin_ingot"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"1EA1F42F625B1C65"
+				"389DC24B4388C247"
+			]
+			id: "2E0FE08FC99A45CB"
+			tasks: [{
+				id: "411EB5E867CE8B39"
+				item: "pneumaticcraft:pneumatic_cylinder"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2E0FE08FC99A45CB"]
+			id: "3DFEF1F2679CA77E"
+			tasks: [{
+				id: "4BBA319B7A6F16D9"
+				item: "immersiveengineering:generator"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1EA1F42F625B1C65"]
+			id: "2A1D94367154AF9B"
+			tasks: [{
+				id: "5A500E8B36556BB8"
+				item: "pneumaticcraft:heat_sink"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2A1D94367154AF9B"]
+			id: "2D6E33848CCD610B"
+			tasks: [{
+				id: "7B3AE69D647B8841"
+				item: "immersiveengineering:radiator"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"2D6E33848CCD610B"
+				"3DFEF1F2679CA77E"
+			]
+			id: "3DDB605A723352F2"
+			tasks: [{
+				id: "5E149DD550AE9EDA"
+				item: "immersiveengineering:diesel_generator"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2E0FE08FC99A45CB"]
+			id: "4FFADD7058710777"
+			tasks: [{
+				id: "27EC272678F7E5A4"
+				item: "immersivepetroleum:gas_generator"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			id: "4ACE4AF604399CD4"
+			tasks: [{
+				id: "23E8D21E1D5192E2"
+				item: "nuclearcraft:titanium_ingot"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4ACE4AF604399CD4"]
+			id: "0424CA0E07081941"
+			tasks: [{
+				id: "51EBC7A8AE8F57EA"
+				item: "nuclearcraft:turbine_controller"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4ACE4AF604399CD4"]
+			id: "3DBB0A76EC3E5A1F"
+			tasks: [{
+				id: "60A701EB29EF27CC"
+				item: "nuclearcraft:turbine_rotor_shaft"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4ACE4AF604399CD4"]
+			id: "4C0FC45D540BC3C5"
+			tasks: [{
+				id: "58267F29E6380963"
+				item: "nuclearcraft:turbine_bearing"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4ACE4AF604399CD4"]
+			id: "43DFEA4D03739C0B"
+			tasks: [{
+				id: "21019990A77632C8"
+				item: "nuclearcraft:turbine_basic_rotor_blade"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"2D6E33848CCD610B"
+				"3DFEF1F2679CA77E"
+			]
+			id: "41C392044D0347DD"
+			tasks: [{
+				id: "1BE3CDCD27B6407F"
+				item: "immersivetechnology:steam_turbine"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+	]
+	title: "发电机组"
+}

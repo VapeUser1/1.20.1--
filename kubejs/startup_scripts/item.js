@@ -1,0 +1,10 @@
+StartupEvents.registry('item', event => {
+    event.create('iron_powder')
+    event.create('quicklime')
+    event.create('hydratedlime')
+    event.create('paperpulp')
+    event.create('raw_fire_clay')
+    event.create('blast_brick')
+    event.create('steel_gear').tag('forge:gears/steel')
+    //event.create('steel_bloom').maxDamage(256)
+  })

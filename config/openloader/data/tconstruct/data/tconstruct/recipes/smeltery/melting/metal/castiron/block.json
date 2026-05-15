@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "createbigcannons:block_cast_iron"
+  },
+  "result": {
+    "amount": 810,
+    "tag": "forge:molten_cast_iron"
+  },
+  "temperature": 750,
+  "time": 180
+}

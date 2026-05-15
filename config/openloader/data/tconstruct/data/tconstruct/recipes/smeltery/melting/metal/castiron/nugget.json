@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:nuggets/cast_iron"
+  },
+  "result": {
+    "amount": 10,
+    "tag": "forge:molten_cast_iron"
+  },
+  "temperature": 750,
+  "time": 20
+}

@@ -1,0 +1,10 @@
+{
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:forge": true,
+  "wthitharvestability:plugin": true,
+  "ae2:wthit": true,
+  "mekanism:plugin": true
+}

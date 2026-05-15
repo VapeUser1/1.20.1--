@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mm:block/assembly_line",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "mm:block/assembly_line",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "mm:block/assembly_line"
+    },
+    "facing=west": {
+      "model": "mm:block/assembly_line",
+      "y": 90
+    }
+  }
+}

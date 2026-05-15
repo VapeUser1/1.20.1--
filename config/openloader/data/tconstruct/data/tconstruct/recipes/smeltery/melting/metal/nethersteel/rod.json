@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "type": "mantle:tag_filled",
+      "tag": "forge:rods/nethersteel"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:rods/nethersteel"
+  },
+  "result": {
+    "amount": 45,
+    "tag": "forge:molten_nethersteel"
+  },
+  "temperature": 750,
+  "time": 12
+}

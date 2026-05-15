@@ -1,0 +1,256 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6BEA5D84B489CA07"
+	group: "7D47EF0CE7FF812E"
+	icon: "create:mechanical_crafter"
+	id: "6BEA5D84B489CA07"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "36B30AEE97A598C0"
+			tasks: [{
+				id: "7C64676971599DCE"
+				item: {
+					Count: 1
+					id: "tconstruct:copper_can"
+					tag: {
+						fluid: "tconstruct:molten_zinc"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["36B30AEE97A598C0"]
+			id: "5E34951BA74B05DF"
+			tasks: [{
+				id: "1D5B0204EF52A1AB"
+				item: "create:zinc_ingot"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5E34951BA74B05DF"]
+			id: "760E54509413DE22"
+			tasks: [{
+				id: "4B07D4F2783EFC70"
+				item: "create:brass_ingot"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["760E54509413DE22"]
+			id: "1FF5DC58030CAD25"
+			tasks: [{
+				id: "6861B4D44C9FB264"
+				item: "create:brass_casing"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5E34951BA74B05DF"]
+			id: "28C97994DDA8C13F"
+			tasks: [{
+				id: "65D9399816967164"
+				item: "create:large_water_wheel"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"1FF5DC58030CAD25"
+				"422C69B17E861EA9"
+			]
+			id: "5C772B06AE27F9C6"
+			tasks: [{
+				id: "689F238D516DC388"
+				item: "create:windmill_bearing"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5E34951BA74B05DF"]
+			id: "40ECDFDDD0E39048"
+			tasks: [{
+				id: "60CE9764CFC9B9B4"
+				item: "createaddition:rolling_mill"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["40ECDFDDD0E39048"]
+			id: "422C69B17E861EA9"
+			tasks: [{
+				id: "019243C29B659523"
+				item: "createaddition:iron_wire"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"1FF5DC58030CAD25"
+				"066B459807BB6C19"
+			]
+			id: "6E39EB4AE3D5564D"
+			tasks: [{
+				id: "2E9CDF356EDBDF83"
+				item: "create:mechanical_crafter"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["422C69B17E861EA9"]
+			id: "6939B263DE68F61A"
+			tasks: [{
+				id: "0783716DDB71F908"
+				item: "vintageimprovements:spring_coiling_machine"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6939B263DE68F61A"]
+			id: "2CC85760816FEE51"
+			tasks: [{
+				id: "1FC57B354928D547"
+				item: "vintageimprovements:iron_spring"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"2CC85760816FEE51"
+				"6E39EB4AE3D5564D"
+			]
+			id: "02513BE52F8DC4F4"
+			tasks: [{
+				id: "6B9C95E3B87DD8DE"
+				item: "vintageimprovements:helve_hammer"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6E39EB4AE3D5564D"]
+			id: "1484A38FA82A57FE"
+			tasks: [{
+				id: "2FF872809F977163"
+				item: "create:crushing_wheel"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4B3752147F182282"]
+			id: "691829AA69343CA2"
+			tasks: [{
+				id: "36ACFA72F39C3A78"
+				item: "create:encased_fan"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6E39EB4AE3D5564D"]
+			id: "4B3752147F182282"
+			tasks: [{
+				id: "29A671FE4D99FF79"
+				item: "create:propeller"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6E39EB4AE3D5564D"]
+			id: "58F2D901D97FE51E"
+			shape: "square"
+			tasks: [{
+				id: "7CA968F1443F15C7"
+				item: "create:mechanical_bearing"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["02513BE52F8DC4F4"]
+			id: "4F0CAA4301EA8097"
+			tasks: [{
+				id: "5506FFDCB37C8CD8"
+				item: {
+					Count: 1
+					id: "tconstruct:large_plate"
+					tag: {
+						Material: "tconstruct:iron"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			x: 12.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1484A38FA82A57FE"]
+			id: "087B96738FA2C502"
+			tasks: [{
+				id: "374942D0CE2B4182"
+				item: "vintageimprovements:belt_grinder"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["760E54509413DE22"]
+			id: "066B459807BB6C19"
+			tasks: [{
+				id: "1FDEBABF2522B1A3"
+				item: "create:piston_extension_pole"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["087B96738FA2C502"]
+			id: "0F7C807E3322789E"
+			tasks: [{
+				id: "6C693909D78FDFAA"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -6.0d
+		}
+	]
+	title: "机械动力"
+}

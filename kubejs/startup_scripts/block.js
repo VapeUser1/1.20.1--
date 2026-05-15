@@ -1,0 +1,10 @@
+StartupEvents.registry('block', event => {
+    event.create('impregnated_planks') 
+      .displayName('impregnated planks') 
+      .hardness(1.0) 
+      .resistance(1.0) 
+      .tagBlock('minecraft:planks') 
+      .tagBlock('my_namespace:my_other_tag') 
+      .tagBlock('minecraft:mineable/axe') 
+      .tagBlock('tconstruct:mineable/hand_axe') 
+  })

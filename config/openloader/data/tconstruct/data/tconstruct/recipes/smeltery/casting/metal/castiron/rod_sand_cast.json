@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/rod"
+  },
+  "cast_consumed": true,
+  "conditions": [
+    {
+      "type": "mantle:tag_filled",
+      "tag": "forge:rods/cast_iron"
+    }
+  ],
+  "cooling_time": 43,
+  "fluid": {
+    "amount": 45,
+    "tag": "forge:molten_cast_iron"
+  },
+  "result": {
+    "tag": "forge:rods/cast_iron"
+  }
+}

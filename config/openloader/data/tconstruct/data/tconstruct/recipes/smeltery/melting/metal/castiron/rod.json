@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "type": "mantle:tag_filled",
+      "tag": "forge:rods/cast_iron"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:rods/cast_iron"
+  },
+  "result": {
+    "amount": 45,
+    "tag": "forge:molten_cast_iron"
+  },
+  "temperature": 750,
+  "time": 12
+}

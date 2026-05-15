@@ -1,0 +1,24 @@
+{
+    "type": "tconstruct:alloy",
+    "conditions": [
+      {
+        "type": "mantle:tag_filled",
+        "tag": "forge:ingots/nethersteel"
+      }
+    ],
+    "inputs": [
+      {
+        "amount": 90,
+        "tag": "forge:molten_iron"
+      },
+      {
+        "amount": 90,
+        "tag": "tconstruct:molten_debris"
+      }
+    ],
+    "result": {
+      "amount": 180,
+      "tag": "forge:molten_nethersteel"
+    },
+    "temperature": 1145
+  }

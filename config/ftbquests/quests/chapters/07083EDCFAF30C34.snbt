@@ -1,0 +1,351 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "07083EDCFAF30C34"
+	group: "214CC005E72A5484"
+	icon: {
+		Count: 1
+		id: "tinkers_things:laminar_shield"
+		tag: {
+			Damage: 0
+			tic_broken: 0b
+			tic_materials: [
+				"tconstruct:iron"
+				"tconstruct:bronze"
+			]
+			tic_modifiers: [
+				{
+					level: 1
+					name: "tconstruct:projectile_protection"
+				}
+				{
+					level: 1
+					name: "tconstruct:maintained"
+				}
+				{
+					level: 1
+					name: "tconstruct:blocking"
+				}
+			]
+			tic_multipliers: {
+				"tconstruct:durability": 1.5f
+			}
+			tic_persistent: { }
+			tic_stats: {
+				"tconstruct:armor_toughness": 1.0f
+				"tconstruct:block_amount": 40.0f
+				"tconstruct:block_angle": 130.0f
+				"tconstruct:durability": 391.5f
+				"tconstruct:knockback_resistance": 0.05f
+				"tconstruct:use_item_speed": 0.4f
+			}
+			tic_volatile_data: {
+				abilities: 1
+				upgrades: 3
+			}
+		}
+	}
+	id: "07083EDCFAF30C34"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5AFBB92CAB024E91"
+			tasks: [{
+				id: "7022B0F80E97E195"
+				item: "ytech:primitive_alloy_smelter"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5AFBB92CAB024E91"]
+			id: "2A786FC8AAE20AED"
+			tasks: [{
+				id: "53321FB60CBE9156"
+				item: "thermal:bronze_ingot"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2A786FC8AAE20AED"]
+			id: "60EF4C9D98544FF2"
+			tasks: [{
+				id: "0F27B17CC5DAE238"
+				item: {
+					Count: 1
+					id: "tconstruct:pick_head"
+					tag: {
+						Material: "tconstruct:bronze"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2A786FC8AAE20AED"]
+			id: "33230EEDFCEE1692"
+			tasks: [{
+				id: "165B1D6C8E424961"
+				item: {
+					Count: 1
+					id: "tconstruct:small_blade"
+					tag: {
+						Material: "tconstruct:bronze"
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2A786FC8AAE20AED"]
+			id: "0A558B909B859D0A"
+			tasks: [{
+				id: "153D1C12DC3C9DF6"
+				item: "thermal:bronze_gear"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0A558B909B859D0A"]
+			id: "217083794850823D"
+			tasks: [{
+				id: "22A58698AE4F87F1"
+				item: "create:millstone"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6CC9EE1D740DB066"]
+			id: "3B04A8588E1C9CC9"
+			tasks: [{
+				id: "68DA508221363133"
+				item: "immersiveengineering:blastbrick"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"217083794850823D"
+				"0902FFC6C67FCC18"
+			]
+			id: "6CC9EE1D740DB066"
+			tasks: [{
+				id: "541F524BE8C425B2"
+				item: "kubejs:raw_fire_clay"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"3B04A8588E1C9CC9"
+				"1CA166524AFD011A"
+			]
+			id: "6A4D09D8869FB6E1"
+			tasks: [{
+				id: "03EADF903456A923"
+				item: {
+					Count: 1
+					id: "ytech:iron_bloom"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6A4D09D8869FB6E1"]
+			id: "68681219F2C1B8E8"
+			tasks: [{
+				id: "7DD2E98D732B44BB"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6A4D09D8869FB6E1"]
+			id: "5CEAD78E7F24EDAB"
+			tasks: [{
+				id: "116CB98F53E0D710"
+				item: {
+					Count: 1
+					id: "tconstruct:pick_head"
+					tag: {
+						Material: "tconstruct:iron"
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A4D09D8869FB6E1"]
+			id: "61200B172F5564FF"
+			tasks: [{
+				id: "750C4D04C334C9C1"
+				item: {
+					Count: 1
+					id: "tconstruct:small_blade"
+					tag: {
+						Material: "tconstruct:iron"
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["68681219F2C1B8E8"]
+			id: "014CCF9C21C83FFD"
+			tasks: [{
+				id: "16CF967F71E7B300"
+				item: "minecraft:iron_nugget"
+				type: "item"
+			}]
+			x: 11.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["68681219F2C1B8E8"]
+			id: "320264818E472CD4"
+			tasks: [{
+				id: "7C6C7DA0BCA27608"
+				item: {
+					Count: 1
+					id: "minecraft:bucket"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5CEAD78E7F24EDAB"]
+			id: "26A97338AEA80848"
+			tasks: [{
+				id: "66B07A43670FCD3F"
+				item: "minecraft:amethyst_shard"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["60EF4C9D98544FF2"]
+			id: "205DCA0A53B0FD46"
+			shape: "square"
+			tasks: [{
+				id: "427D4CD089AE021D"
+				item: "immersivegeology:normal_ore_magnetite"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["205DCA0A53B0FD46"]
+			id: "575CD732095A71AD"
+			shape: "square"
+			tasks: [{
+				id: "3E767F1A76ED9BA4"
+				item: "minecraft:compass"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["60EF4C9D98544FF2"]
+			id: "1CA166524AFD011A"
+			tasks: [{
+				id: "39E61784745A542F"
+				item: "minecraft:raw_iron"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["60EF4C9D98544FF2"]
+			id: "0902FFC6C67FCC18"
+			tasks: [{
+				id: "088BFAE723D437C6"
+				item: "minecraft:redstone"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2A786FC8AAE20AED"]
+			id: "60D242F95B7E1CA3"
+			tasks: [{
+				id: "4EC59EE3A10F4C0A"
+				item: "ytech:bronze_anvil"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2A786FC8AAE20AED"]
+			id: "4755ED23AB975D8E"
+			shape: "square"
+			tasks: [{
+				id: "2ABCF7F90468FF24"
+				item: "minecraft:bell"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6CC9EE1D740DB066"]
+			id: "599456C4BC1B3A20"
+			tasks: [{
+				id: "55B2E42B8C69E216"
+				item: "tconstruct:seared_brick"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["599456C4BC1B3A20"]
+			id: "072B5E745114C064"
+			tasks: [{
+				id: "26BFE8EDC0C7AA46"
+				item: "tconstruct:smeltery_controller"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.0d
+		}
+	]
+	title: "青铜与铁"
+}

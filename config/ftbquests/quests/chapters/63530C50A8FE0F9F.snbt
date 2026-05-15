@@ -1,0 +1,196 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "63530C50A8FE0F9F"
+	group: "3695B471C34C05FF"
+	icon: "minecraft:paper"
+	id: "63530C50A8FE0F9F"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "25DAFA98009E0DF7"
+			tasks: [{
+				id: "27D0C75B2ACF081D"
+				item: "create:mechanical_press"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["25DAFA98009E0DF7"]
+			id: "693F584162F361F1"
+			tasks: [{
+				id: "424B10B9291B0E5F"
+				item: "mekanism:sawdust"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["693F584162F361F1"]
+			id: "5A5C817FBD131812"
+			tasks: [{
+				id: "2A3D7E20D3C23F86"
+				item: "forestry:wood_pulp"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"5A5C817FBD131812"
+				"3A3EC695B9C36422"
+			]
+			id: "3A3F36F9C862227B"
+			tasks: [{
+				id: "1BDF110C7988330A"
+				item: "kubejs:paper_pulp_bucket"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3A3F36F9C862227B"]
+			id: "4C7266E2E9A39A80"
+			tasks: [{
+				id: "782C3DAAFBB8AE9F"
+				item: "minecraft:paper"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"4C7266E2E9A39A80"
+				"4249BEAB116A9B80"
+			]
+			id: "22F353F6057B30D6"
+			tasks: [{
+				id: "035A30A5E58A7D65"
+				item: "minecraft:book"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["22F353F6057B30D6"]
+			id: "16492B7754204954"
+			shape: "square"
+			tasks: [{
+				id: "70E18DB38D8778EE"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							maps: [I; ]
+						}
+					}
+					id: "map_atlases:atlas"
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["22F353F6057B30D6"]
+			id: "4A3F5B8FF3E2DFC3"
+			shape: "square"
+			tasks: [{
+				id: "4BEE4C92833A8B8F"
+				item: "antiqueatlas:empty_antique_atlas"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 3.0d
+		}
+		{
+			id: "18B633E35B34E98B"
+			tasks: [{
+				id: "570043C35A0C043F"
+				item: "create:mechanical_mixer"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["18B633E35B34E98B"]
+			id: "2205B84146180FCF"
+			tasks: [{
+				id: "7A014ABC20769F48"
+				item: "minecraft:leather"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2205B84146180FCF"]
+			id: "4249BEAB116A9B80"
+			tasks: [{
+				id: "005E281A2D223A7A"
+				item: "ytech:leather_strips"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4B2FFFF6D532A49A"]
+			id: "3A3EC695B9C36422"
+			tasks: [{
+				id: "0B30973C689020DF"
+				item: "kubejs:hydratedlime"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			id: "4B2FFFF6D532A49A"
+			tasks: [{
+				id: "2C8C08EEE3F11594"
+				item: "kubejs:quicklime"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4249BEAB116A9B80"]
+			id: "16B08FE19300E0D5"
+			tasks: [{
+				id: "147FE89754C05689"
+				item: {
+					Count: 1
+					id: "thermal:satchel"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["22F353F6057B30D6"]
+			id: "2FA53D79F4CD55E9"
+			shape: "square"
+			tasks: [{
+				id: "72660713A756A2B8"
+				item: "minecraft:lectern"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 0.5d
+		}
+	]
+	title: "造纸术"
+}

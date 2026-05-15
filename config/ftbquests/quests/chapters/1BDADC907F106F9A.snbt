@@ -1,0 +1,236 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1BDADC907F106F9A"
+	group: "3695B471C34C05FF"
+	icon: "forestry:bee_comb_honey"
+	id: "1BDADC907F106F9A"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["44A9E86220F7FA31"]
+			id: "641D48EE81A819BA"
+			tasks: [{
+				id: "2B58B300959396CF"
+				item: "forestry:bee_house"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			id: "44A9E86220F7FA31"
+			tasks: [{
+				id: "14F09ECC3416352E"
+				item: "forestry:sturdy_machine"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"641D48EE81A819BA"
+				"668633EC941E0A1A"
+			]
+			id: "0D44D66BEBB7A368"
+			tasks: [{
+				id: "55EA2C089526BF6D"
+				item: "forestry:apiary"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			id: "668633EC941E0A1A"
+			tasks: [{
+				id: "61B45815C37AA1CC"
+				item: "forestry:impregnated_casing"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0D44D66BEBB7A368"]
+			id: "25413B8DA9290C77"
+			tasks: [{
+				id: "567645B8C61FE866"
+				item: "forestry:bee_comb_honey"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["25413B8DA9290C77"]
+			id: "0390708E8A6B2D1C"
+			tasks: [{
+				id: "09A1596CF3B43EF7"
+				item: "forestry:honey_drop"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["25413B8DA9290C77"]
+			id: "203A554D652488DF"
+			tasks: [{
+				id: "4F06EBDE65A67B1C"
+				item: "forestry:beeswax"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["25413B8DA9290C77"]
+			id: "4B96AAF3B7B888BB"
+			tasks: [{
+				id: "551C80C4273C4908"
+				item: "forestry:bee_comb_simmering"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0390708E8A6B2D1C"]
+			id: "51ADFA094FBDC1CA"
+			tasks: [{
+				id: "365077E032B58EE0"
+				item: "minecraft:honey_bottle"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["51ADFA094FBDC1CA"]
+			id: "2292F89BC7FC330D"
+			shape: "square"
+			tasks: [{
+				id: "16A749FF541ECA59"
+				item: "createaddition:honey_cake"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4B96AAF3B7B888BB"]
+			id: "2B7A005AA99CB247"
+			tasks: [{
+				id: "598E1213E062C402"
+				item: "forestry:refractory_wax"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2B7A005AA99CB247"]
+			id: "632A7DA7AEC33E04"
+			tasks: [{
+				id: "0E43E1CAD575A4AD"
+				item: "forestry:refractory"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2B7A005AA99CB247"]
+			id: "4B03D44FFC611D90"
+			tasks: [{
+				id: "7ADF249D2F536E10"
+				item: "create:blaze_cake_base"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0489F4D260D8723B"]
+			id: "49EEE9F12C0D9429"
+			tasks: [{
+				id: "2177AB31F3E58C83"
+				item: "minecraft:gunpowder"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4B03D44FFC611D90"]
+			id: "0489F4D260D8723B"
+			tasks: [{
+				id: "71204B2491758C90"
+				item: "create:blaze_cake"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["632A7DA7AEC33E04"]
+			id: "11D1EFF9D8B7F5B5"
+			tasks: [{
+				id: "7C337E95AB31AFE8"
+				item: "tconstruct:copper_can"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["25413B8DA9290C77"]
+			id: "6B2693FE1E8555C9"
+			shape: "square"
+			tasks: [{
+				id: "670B6B78817064B1"
+				item: "forestry:bee_comb_silky"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6B2693FE1E8555C9"]
+			id: "1A6CFBBFDC16656E"
+			shape: "square"
+			tasks: [{
+				id: "79E12BF222450405"
+				item: "forestry:propolis_silky"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["49EEE9F12C0D9429"]
+			id: "218B54F4919E247E"
+			shape: "square"
+			tasks: [{
+				id: "7909322A4B15D3CB"
+				item: {
+					Count: 1
+					id: "minecraft:firework_rocket"
+					tag: {
+						Fireworks: {
+							Flight: 1b
+						}
+					}
+				}
+				match_nbt: false
+				type: "item"
+			}]
+			x: 10.5d
+			y: 4.5d
+		}
+	]
+	title: "养蜂技术"
+}

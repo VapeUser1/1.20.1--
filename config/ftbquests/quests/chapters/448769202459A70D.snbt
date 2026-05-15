@@ -1,0 +1,305 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "448769202459A70D"
+	group: "1B5246E5C955D37F"
+	icon: "minecraft:decorated_pot"
+	id: "448769202459A70D"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3822D67218142353"
+			tasks: [{
+				id: "04A8F823BD37CBF0"
+				item: {
+					Count: 1
+					id: "tconstruct:pick_head"
+					tag: {
+						Material: "tconstruct:flint"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3822D67218142353"]
+			id: "598D36ECB4A58AC5"
+			tasks: [{
+				id: "28AAD95E108F8254"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["598D36ECB4A58AC5"]
+			id: "68C696881315B595"
+			tasks: [{
+				id: "400BCF8EFFEAD610"
+				item: "minecraft:campfire"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["73F766A5AA0E54FC"]
+			id: "61383389E1145341"
+			tasks: [{
+				id: "6DFC961367909186"
+				item: "ytech:unfired_brick"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"61383389E1145341"
+				"68C696881315B595"
+			]
+			id: "7B87B19AFE7779BE"
+			tasks: [{
+				id: "54561D733327B126"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:ingots/brick"
+					}
+				}
+				title: "Any #forge:ingots/brick"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"73F766A5AA0E54FC"
+				"3A272F322A4D7FE6"
+			]
+			id: "3AD9F7A63F1EAE89"
+			tasks: [{
+				id: "46BDEE4D90CEE5EF"
+				item: "ytech:unfired_decoration_pot"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"3AD9F7A63F1EAE89"
+				"68C696881315B595"
+			]
+			id: "05703A3C09FB48B7"
+			tasks: [{
+				id: "6BBB4B6AF88E5836"
+				item: "minecraft:decorated_pot"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -5.0d
+		}
+		{
+			id: "73F766A5AA0E54FC"
+			tasks: [{
+				id: "7ADCE4E532CC6E19"
+				item: "minecraft:clay_ball"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"05703A3C09FB48B7"
+				"7B87B19AFE7779BE"
+			]
+			id: "0FA56F8EB4244D43"
+			tasks: [{
+				id: "4B310EA1748CE8CD"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0FA56F8EB4244D43"]
+			id: "6E84DF849D82B375"
+			tasks: [{
+				id: "4036B7F22D40B7A3"
+				item: "minecraft:glass"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6E84DF849D82B375"
+				"78C362209722FD9A"
+				"0FA56F8EB4244D43"
+			]
+			id: "71C75F64AD0222ED"
+			tasks: [{
+				id: "104F828B53E0FDB9"
+				item: "ytech:primitive_smelter"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0FA56F8EB4244D43"]
+			id: "78C362209722FD9A"
+			tasks: [{
+				id: "52D651C2725DF9EF"
+				item: "tconstruct:seared_brick"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78C362209722FD9A"]
+			id: "151258787C5842B3"
+			tasks: [{
+				id: "364AA20B923B12C6"
+				item: "tconstruct:seared_heater"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["71C75F64AD0222ED"]
+			id: "3DF6207A9F93D730"
+			tasks: [{
+				id: "34412686D1159A49"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			x: 15.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["71C75F64AD0222ED"]
+			id: "6665487F763F4FB3"
+			tasks: [{
+				id: "3E03B483064CB287"
+				item: "thermal:lead_ingot"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["6665487F763F4FB3"]
+			id: "19FD360C6E78E04B"
+			tasks: [{
+				id: "12EDA65C0AB6E781"
+				item: {
+					Count: 1
+					id: "immersiveengineering:hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["68C696881315B595"]
+			id: "4ABB81042F6C3D73"
+			tasks: [{
+				id: "7EC8507994362474"
+				item: "ceramicbucket:ceramic_bucket"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			id: "3A272F322A4D7FE6"
+			tasks: [{
+				id: "52E47D959290BA12"
+				item: "ytech:potters_wheel"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["78C362209722FD9A"]
+			id: "4BEF390546FC65FD"
+			tasks: [{
+				id: "6087F481F67EC316"
+				item: {
+					Count: 1
+					id: "tconstruct:flint_and_brick"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_modifiers: [
+							{
+								level: 1
+								name: "tconstruct:firestarter"
+							}
+							{
+								level: 1
+								name: "tconstruct:fiery"
+							}
+							{
+								level: 1
+								name: "tconstruct:scorching"
+							}
+						]
+						tic_persistent: { }
+						tic_stats: {
+							"tconstruct:durability": 100.0f
+						}
+						tic_volatile_data: {
+							upgrades: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6E84DF849D82B375"]
+			id: "1F05F39A13DC3EB9"
+			tasks: [{
+				id: "59192CD1DE8BDA26"
+				item: "tconstruct:seared_melter"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3DF6207A9F93D730"]
+			id: "2C8AD7287F1976A6"
+			tasks: [{
+				id: "4BA9C60CAC7F0D5F"
+				item: "ytech:primitive_alloy_smelter"
+				type: "item"
+			}]
+			x: 17.5d
+			y: -2.5d
+		}
+	]
+	title: "磨制石器与陶器"
+}

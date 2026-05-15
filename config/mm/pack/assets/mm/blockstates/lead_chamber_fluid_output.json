@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mm:block/lead_chamber_fluid_output"
+    }
+  }
+}

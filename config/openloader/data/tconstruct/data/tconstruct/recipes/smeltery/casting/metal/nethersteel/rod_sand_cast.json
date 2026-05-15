@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/rod"
+  },
+  "cast_consumed": true,
+  "conditions": [
+    {
+      "type": "mantle:tag_filled",
+      "tag": "forge:rods/nethersteel"
+    }
+  ],
+  "cooling_time": 43,
+  "fluid": {
+    "amount": 45,
+    "tag": "forge:molten_nethersteel"
+  },
+  "result": {
+    "tag": "forge:rods/nethersteel"
+  }
+}

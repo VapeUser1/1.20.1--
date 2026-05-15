@@ -1,0 +1,16 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "5D54A0B2A53D126A"
+	group: "39569C78B795407D"
+	icon: {
+		Count: 1
+		id: "ae2:item_storage_cell_256k"
+		tag: { }
+	}
+	id: "5D54A0B2A53D126A"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "终极物流"
+}

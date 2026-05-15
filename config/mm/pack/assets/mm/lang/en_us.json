@@ -1,0 +1,15 @@
+{
+  "block.mm.assembly_line": "Assembly line",
+  "block.mm.assembly_line_energy_input": "Assembly line Energy Port Input",
+  "block.mm.assembly_line_energy_output": "Assembly line Energy Port Output",
+  "block.mm.assembly_line_fluid_input": "Assembly line Fluid Port Input",
+  "block.mm.assembly_line_fluid_output": "Assembly line Fluid Port Output",
+  "block.mm.assembly_line_item_input": "Assembly line Item Port Input",
+  "block.mm.assembly_line_item_output": "Assembly line Item Port Output",
+  "block.mm.lead_chamber": "Lead Chamber",
+  "block.mm.lead_chamber_fluid_input": "Lead Chamber Fluid Port Input",
+  "block.mm.lead_chamber_fluid_output": "Lead Chamber Fluid Port Output",
+  "block.mm.lead_chamber_item_input": "Lead Chamber Item Port Input",
+  "block.mm.lead_chamber_item_output": "Lead Chamber Item Port Output",
+  "item.mm.blueprint": "Blueprint"
+}

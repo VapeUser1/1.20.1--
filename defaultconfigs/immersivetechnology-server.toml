@@ -1,0 +1,6 @@
+
+[multiblocks]
+	#Mode for multiblock disassembly. PROCESS_QUEUE: Use gradual queue with fake player. TEMPLATE_BLOCKS: Revert to template blocks like IE.
+	#Allowed Values: PROCESS_QUEUE, TEMPLATE_BLOCKS
+	disassemblyMode = "PROCESS_QUEUE"
+

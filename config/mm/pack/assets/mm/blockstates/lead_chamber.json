@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mm:block/lead_chamber",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "mm:block/lead_chamber",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "mm:block/lead_chamber"
+    },
+    "facing=west": {
+      "model": "mm:block/lead_chamber",
+      "y": 90
+    }
+  }
+}

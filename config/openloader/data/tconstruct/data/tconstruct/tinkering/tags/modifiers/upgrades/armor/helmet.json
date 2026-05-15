@@ -1,0 +1,10 @@
+{
+  "values": [
+    "tconstruct:item_frame",
+    "tconstruct:respiration",
+    {
+      "id": "tconstruct:headlight",
+      "required": false
+    }
+  ]
+}

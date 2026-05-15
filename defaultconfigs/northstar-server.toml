@@ -1,0 +1,61 @@
+
+#.
+[sealer]
+	#.
+	#Base maximum blocks tested per tick, higher values increase the speed at which seals updates but decreases performance, value increases dynamically with additional blocks that might add volume.
+	#Range: > 1
+	baseCheckBlocksPerTick = 128
+	#.
+	#Absolute maximum blocks tested per tick
+	#Range: > 1
+	maxCheckedBlocksPerTick = 4096
+	#.
+	#Delay in ticks before checking again after a seal completed
+	#Range: > 1
+	checkDelay = 20
+
+	#.
+	[sealer.oxygen]
+		#.
+		#Range: > 1
+		blocksPerRpm = 16
+		#.
+		#Range: > 0
+		maxContraptionSealed = 2500
+		#.
+		#Passive oxygen drain in mB per block per tick
+		#Range: 0.0 ~ 3.4028234663852886E38
+		passiveDrain = 9.999999747378752E-5
+		#.
+		#Active drain scaling in mB per block per tick. Applies to block with dynamic consumption like fire, torches, leaves, etc...
+		#Range: 0.0 ~ 3.4028234663852886E38
+		blockActiveDrain = 0.009999999776482582
+		#.
+		#Active drain for entity in mB per entity per tick.
+		#Range: 0.0 ~ 3.4028234663852886E38
+		entityActiveDrain = 0.05000000074505806
+
+	#.
+	[sealer.temperature]
+		#.
+		#Range: > 1
+		blocksPerRpm = 16
+		#.
+		#Range: > 0
+		maxContraptionSealed = 2500
+
+#.
+[largeFan]
+	#.
+	#Maximum size of large fans.
+	#Range: > 1
+	maxSize = 5
+	#.
+	#A constant used to calculate the volume added by large fans using the following formula: (|speed| / 256 * 64) * size^sizeExp * C * (1 + log2(blades))
+	#Range: 0.0 ~ 3.4028234663852886E38
+	sizeExp = 2.200000047683716
+	#.
+	#A constant used to calculate the volume added by large fans using the following formula: (|speed| / 256 * 64) * size^sizeExp * C * (1 + log2(blades))
+	#Range: 0.0 ~ 3.4028234663852886E38
+	multiplier = 12.0
+

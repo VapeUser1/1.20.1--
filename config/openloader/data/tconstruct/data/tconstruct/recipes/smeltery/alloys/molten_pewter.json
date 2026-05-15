@@ -1,0 +1,66 @@
+{
+  "type": "forge:conditional",
+  "conditions": [
+    {
+      "type": "mantle:tag_filled",
+      "tag": "forge:ingots/pewter"
+    },
+    {
+      "type": "mantle:tag_filled",
+      "tag": "forge:ingots/lead"
+    }
+  ],
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "mantle:tag_filled",
+          "tag": "forge:ingots/tin"
+        }
+      ],
+      "recipe": {
+        "type": "tconstruct:alloy",
+        "inputs": [
+          {
+            "amount": 180,
+            "tag": "forge:molten_tin"
+          },
+          {
+            "amount": 90,
+            "tag": "forge:molten_lead"
+          }
+        ],
+        "result": {
+          "amount": 270,
+          "tag": "forge:molten_pewter"
+        },
+        "temperature": 400
+      }
+    },
+    {
+      "conditions": [
+        {
+          "type": "forge:true"
+        }
+      ],
+      "recipe": {
+        "type": "tconstruct:alloy",
+        "inputs": [
+          {
+            "amount": 90,
+            "tag": "forge:molten_iron"
+          },
+          {
+            "amount": 90,
+            "tag": "forge:molten_lead"
+          }
+        ],
+        "result": {
+          "amount": 180,
+          "tag": "forge:molten_pewter"
+        },
+        "temperature": 400
+      }
+    }
+  ]
+}

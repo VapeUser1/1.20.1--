@@ -1,0 +1,133 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "003A6F904B931B74"
+	group: "7D47EF0CE7FF812E"
+	icon: "minecraft:ender_eye"
+	id: "003A6F904B931B74"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["6C1608BF84A92176"]
+			id: "3FAA291725468448"
+			tasks: [{
+				id: "00507D43A1866FA7"
+				item: "minecraft:ender_eye"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3FAA291725468448"]
+			id: "5A9A6B4EFB5EB90E"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "minecraft:end_portal_frame"
+				id: "2CD3A2E10686EA41"
+				type: "dimension"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5A9A6B4EFB5EB90E"]
+			id: "5A59E6FD2F25FAA1"
+			tasks: [{
+				id: "3A4843300632C307"
+				item: "minecraft:end_stone"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5A9A6B4EFB5EB90E"]
+			id: "63EDDB33A322D953"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: "minecraft:dragon_head"
+				id: "5DB78C6BEF99AC56"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["63EDDB33A322D953"]
+			id: "3222B19B4A4A3999"
+			tasks: [{
+				id: "4A0D5E8F7F9FC8FB"
+				item: "minecraft:dragon_egg"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5A9A6B4EFB5EB90E"]
+			id: "5F8B634A6BBBAB4E"
+			tasks: [{
+				id: "1335616C500DC2C4"
+				item: "minecraft:purpur_block"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5A9A6B4EFB5EB90E"]
+			id: "589FD5F2BFE55D39"
+			tasks: [{
+				id: "4D4FD63B4BF2C703"
+				item: "minecraft:chorus_fruit"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3222B19B4A4A3999"]
+			id: "35EC443F1F6C6893"
+			shape: "square"
+			tasks: [{
+				id: "53D699511D3377CE"
+				item: "minecraft:shulker_shell"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3222B19B4A4A3999"]
+			id: "7303ED93110E17D0"
+			shape: "square"
+			tasks: [{
+				id: "49C594ECB31D1D8C"
+				item: {
+					Count: 1
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: -0.5d
+		}
+		{
+			id: "6C1608BF84A92176"
+			tasks: [{
+				id: "601E06782EDBBD01"
+				item: "tconstruct:enderman_head"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+	]
+	title: "解放末地"
+}

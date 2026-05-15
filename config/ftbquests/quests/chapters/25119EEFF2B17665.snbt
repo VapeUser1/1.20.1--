@@ -1,0 +1,157 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "25119EEFF2B17665"
+	group: "214CC005E72A5484"
+	icon: "simplytea:tea_leaf"
+	id: "25119EEFF2B17665"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["543363094101066E"]
+			id: "0D9E03454AEEFBAB"
+			tasks: [{
+				id: "6B420587B3728DB6"
+				item: {
+					Count: 1
+					id: "minecraft:shears"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			id: "543363094101066E"
+			tasks: [{
+				id: "546EAE745904FE06"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0D9E03454AEEFBAB"]
+			id: "7D12A501DF8BE692"
+			tasks: [{
+				id: "4E70D4669A843250"
+				item: "simplytea:tea_leaf"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7D12A501DF8BE692"]
+			id: "04FCAF8B93836BDC"
+			tasks: [{
+				id: "711F54764A0163FE"
+				item: "simplytea:teabag_green"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["04FCAF8B93836BDC"]
+			id: "29E548563FBE343A"
+			tasks: [{
+				id: "0137D107AECAC1A3"
+				item: {
+					Count: 1
+					id: "simplytea:cup_tea_green"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["543363094101066E"]
+			id: "3F044A4A01082B2C"
+			tasks: [{
+				id: "08AC80FEEE15C62E"
+				item: "farmersdelight:cooking_pot"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["543363094101066E"]
+			id: "14530A70B08ABEE2"
+			tasks: [{
+				id: "4809ACFE7AD459D5"
+				item: {
+					Count: 1
+					id: "farmersdelight:skillet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["543363094101066E"]
+			id: "50F41F39F1FF159A"
+			tasks: [{
+				id: "39F460F1DCC39271"
+				item: {
+					Count: 1
+					id: "butchersdelight:cleaver"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["543363094101066E"]
+			id: "3FB73D03C0C85332"
+			tasks: [{
+				id: "22380C96FB5AE26A"
+				item: "drinkbeer:beer_barrel"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3FB73D03C0C85332"]
+			id: "7E2269D9C484A9E8"
+			tasks: [{
+				id: "21D74A5FD1DBFF03"
+				item: "drinkbeer:beer_mug"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3F044A4A01082B2C"]
+			id: "322C691F4623B678"
+			tasks: [{
+				id: "1294CCB1AAAA6A1E"
+				item: "farmersdelight:dumplings"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+	]
+	title: "[支线]农业技术"
+}

@@ -1,0 +1,287 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6526CA019E63FD35"
+	group: "3695B471C34C05FF"
+	icon: "immersiveengineering:ingot_steel"
+	id: "6526CA019E63FD35"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "761111B7E7F6B9C0"
+			tasks: [{
+				id: "34B6EEB1EF0AF947"
+				item: "tconstruct:nether_grout"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["761111B7E7F6B9C0"]
+			id: "653E2D6489F95848"
+			tasks: [{
+				id: "3A93DE7744182405"
+				item: "tconstruct:scorched_bricks"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["653E2D6489F95848"]
+			id: "237CE7A79E7F0C0D"
+			tasks: [{
+				id: "2B7C5ACEB4703397"
+				item: {
+					Count: 1
+					id: "tconstruct:foundry_controller"
+					tag: {
+						texture: "tconstruct:scorched_bricks"
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["237CE7A79E7F0C0D"]
+			id: "678D445389F9CB35"
+			tasks: [{
+				id: "60A0B5CB66DD2990"
+				item: "createbigcannons:cast_iron_ingot"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["653E2D6489F95848"]
+			id: "4DE107F86EBA5EC2"
+			tasks: [{
+				id: "2AE6925F5BFFD5BA"
+				item: "tconstruct:scorched_brick"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4DE107F86EBA5EC2"]
+			id: "75C3A7D75694E0E9"
+			tasks: [{
+				id: "62AA5C5E77AD7605"
+				item: "create:basin"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4DE107F86EBA5EC2"]
+			id: "3F7CDE080B9522AE"
+			tasks: [{
+				id: "3ADA6EE1BBCD8282"
+				item: "create:empty_blaze_burner"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3F7CDE080B9522AE"]
+			id: "439A5B3A656CA3A5"
+			tasks: [{
+				id: "7EFF50430348A459"
+				item: "create:blaze_burner"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["237CE7A79E7F0C0D"]
+			id: "5FDFAB5E535D777E"
+			tasks: [{
+				id: "164C42B2B9803C32"
+				item: "create:andesite_alloy"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5FDFAB5E535D777E"]
+			id: "7E07911BF983F9D9"
+			tasks: [{
+				id: "2FA6630435D5E83E"
+				item: "create:andesite_casing"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7E07911BF983F9D9"]
+			id: "04D8A6333FCE77A5"
+			tasks: [{
+				id: "4CBE363B03A0D35E"
+				item: "create:mechanical_mixer"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"04D8A6333FCE77A5"
+				"678D445389F9CB35"
+				"75C3A7D75694E0E9"
+				"439A5B3A656CA3A5"
+			]
+			id: "092F833076899207"
+			tasks: [{
+				id: "6B2D117FF40F3F1A"
+				item: "immersiveengineering:ingot_steel"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["092F833076899207"]
+			id: "57BA5DC474A35618"
+			tasks: [{
+				id: "15257690ABBDCAE3"
+				item: {
+					Count: 1
+					id: "tconstruct:pick_head"
+					tag: {
+						Material: "tconstruct:steel"
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"7E07911BF983F9D9"
+				"0CCBCD47DD892A7D"
+			]
+			id: "07A45D6D5FE47BD2"
+			tasks: [{
+				id: "3CDAB4AB7600E542"
+				item: "create:mechanical_press"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["092F833076899207"]
+			id: "0CCBCD47DD892A7D"
+			tasks: [{
+				id: "52588FEE24634D89"
+				item: "immersiveengineering:plate_steel"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"0CCBCD47DD892A7D"
+				"68AC096A5512AECF"
+			]
+			id: "1761C67E6973F86F"
+			tasks: [{
+				id: "72689F7EB6F9253B"
+				item: "create:wrench"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["07A45D6D5FE47BD2"]
+			id: "083C3A2D36481B77"
+			tasks: [{
+				id: "4603374D93968BF6"
+				item: "forestry:bucket_seed_oil"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"68AC096A5512AECF"
+				"6971CB2C70D4BCC5"
+			]
+			id: "4AFCD85DF9A316FD"
+			tasks: [{
+				id: "4C52E860EF53F579"
+				item: "forestry:impregnated_casing"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0CCBCD47DD892A7D"]
+			id: "68AC096A5512AECF"
+			tasks: [{
+				id: "5F44B5CFF204CC52"
+				item: "forestry:sturdy_machine"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["653E2D6489F95848"]
+			id: "509ABC8BD5E5F875"
+			tasks: [{
+				id: "1127BF5B5FB5CC6E"
+				item: {
+					Count: 1
+					id: "tconstruct:tinkers_anvil"
+					tag: {
+						texture: "minecraft:netherite_block"
+					}
+				}
+				type: "item"
+				weak_nbt_match: true
+			}]
+			x: -3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["083C3A2D36481B77"]
+			id: "6971CB2C70D4BCC5"
+			tasks: [{
+				id: "6935B43E1372ECCF"
+				item: "kubejs:impregnated_planks"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5FDFAB5E535D777E"]
+			id: "23EAD663948ACF55"
+			tasks: [{
+				id: "5097359B8F36AC98"
+				item: "createhorsepower:horse_crank"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 8.0d
+		}
+	]
+	title: "炒钢工艺"
+}

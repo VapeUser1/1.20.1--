@@ -1,0 +1,481 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "03A08A142AD2A03D"
+	group: "01328A6FE6C6CD1E"
+	icon: "computercraft:computer_advanced"
+	id: "03A08A142AD2A03D"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "27DF228EB9D7AF19"
+			tasks: [{
+				id: "2EF6F76BDE6B73BD"
+				item: {
+					Count: 1
+					id: "forestry:circuit_board_basic"
+					tag: {
+						T: 0s
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["27DF228EB9D7AF19"]
+			id: "563A8BBE31A2948E"
+			tasks: [{
+				id: "70F70C461E1965BC"
+				item: "immersiveengineering:component_electronic_adv"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			id: "0578B2CB445F654E"
+			tasks: [{
+				id: "27F93F0EDCECA4E5"
+				item: "nuclearcraft:germanium_dust"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0578B2CB445F654E"]
+			id: "371071DAD400A37A"
+			tasks: [{
+				id: "1F0F1D58E0E8E7C5"
+				item: "pneumaticcraft:transistor"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["0578B2CB445F654E"]
+			id: "1A6E1D83F1746EF3"
+			tasks: [{
+				id: "1F8384761613FFFC"
+				item: "pneumaticcraft:capacitor"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["563A8BBE31A2948E"]
+			id: "250E388D8777E28D"
+			tasks: [{
+				id: "5516F5B67F4B459D"
+				item: "pneumaticcraft:assembly_platform"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["250E388D8777E28D"]
+			id: "5D3D191DEAB32112"
+			tasks: [{
+				id: "1AE65E9EF73942B6"
+				item: "pneumaticcraft:assembly_controller"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"371071DAD400A37A"
+				"5D3D191DEAB32112"
+				"1A6E1D83F1746EF3"
+			]
+			id: "39426AECDC021C37"
+			tasks: [{
+				id: "5F970A5B559867F9"
+				item: "immersiveengineering:logic_circuit"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["39426AECDC021C37"]
+			id: "46D59966AD8AF33B"
+			tasks: [{
+				id: "176D374AEF7DAD19"
+				item: "mekanism:basic_control_circuit"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["563A8BBE31A2948E"]
+			id: "66DB6214177076FB"
+			tasks: [{
+				id: "5F550E1373E32986"
+				item: "create:mechanical_arm"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["563A8BBE31A2948E"]
+			id: "2AB51B88F3855DB7"
+			tasks: [{
+				id: "1A9F8D45B48E8F14"
+				item: "create:sequenced_gearshift"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["46D59966AD8AF33B"]
+			id: "2C860FF0E4B656D1"
+			tasks: [{
+				id: "0E2DE7C5ECF30CAC"
+				item: "ae2:inscriber"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["46D59966AD8AF33B"]
+			id: "5593D6A8403F2FAF"
+			tasks: [{
+				id: "7DAA15CE2DE4A59D"
+				item: "mekanism:purification_chamber"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"5593D6A8403F2FAF"
+				"7544A76F7434D4C9"
+			]
+			id: "49CBD00020228E6B"
+			tasks: [{
+				id: "3A6EB138C2BF18B0"
+				item: "ae2:silicon"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"2C860FF0E4B656D1"
+				"49CBD00020228E6B"
+			]
+			id: "7F7BF576CC2281F1"
+			tasks: [{
+				id: "6ABA493CFD0F6A42"
+				item: "ae2:printed_silicon"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["7F7BF576CC2281F1"]
+			id: "7CA1F9CD2180B568"
+			tasks: [{
+				id: "34484B0620120C1C"
+				item: "ae2:printed_calculation_processor"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"49CBD00020228E6B"
+				"5FE40B82A6DF8C2F"
+			]
+			id: "61D475DDC424FD02"
+			tasks: [{
+				id: "2DF4E89DA5ED36AD"
+				item: "mekanism:alloy_infused"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["46D59966AD8AF33B"]
+			id: "5FE40B82A6DF8C2F"
+			tasks: [{
+				id: "67BE403F61EF7DA0"
+				item: "mekanism:metallurgic_infuser"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7F7BF576CC2281F1"]
+			id: "34651BF72F038CED"
+			tasks: [{
+				id: "09C1BA170BFB95B4"
+				item: "ae2:printed_logic_processor"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"7CA1F9CD2180B568"
+				"34651BF72F038CED"
+				"61D475DDC424FD02"
+			]
+			id: "13D3368FA032B06B"
+			tasks: [{
+				id: "1C414F8B9FA14065"
+				item: "mekanism:advanced_control_circuit"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["13D3368FA032B06B"]
+			id: "22F16A8FFC358B13"
+			shape: "square"
+			tasks: [{
+				id: "424DB336B2725054"
+				item: "computercraft:computer_normal"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["13D3368FA032B06B"]
+			id: "2FAB86A242B92467"
+			tasks: [{
+				id: "2DC0F2673A4A274D"
+				item: "pneumaticcraft:etching_tank"
+				type: "item"
+			}]
+			x: 15.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["13D3368FA032B06B"]
+			id: "69F404CE16334F20"
+			tasks: [{
+				id: "583128A4BF31C040"
+				item: "pneumaticcraft:uv_light_box"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["13D3368FA032B06B"]
+			id: "2F3A0074A94015A8"
+			tasks: [{
+				id: "29219E27EC5C09D8"
+				item: "mekanism:chemical_crystallizer"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2F3A0074A94015A8"]
+			id: "102E7979846B9E09"
+			tasks: [{
+				id: "51ED6C2057B0FA35"
+				item: "mekanism:enriched_diamond"
+				type: "item"
+			}]
+			x: 18.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["102E7979846B9E09"]
+			id: "362DD31D40F0D7C4"
+			tasks: [{
+				id: "1854FC0F9822508D"
+				item: "mekanism:alloy_reinforced"
+				type: "item"
+			}]
+			x: 20.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"69F404CE16334F20"
+				"2F61DDA2461AD777"
+			]
+			id: "4263251F8B5E8A22"
+			tasks: [{
+				id: "1DFC17CA5BA10F1E"
+				item: {
+					Count: 1
+					id: "pneumaticcraft:empty_pcb"
+					tag: {
+						"pneumaticcraft:uv_exposure": 100
+					}
+				}
+				type: "item"
+			}]
+			x: 18.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"4263251F8B5E8A22"
+				"2FAB86A242B92467"
+			]
+			id: "63C4690CE4797923"
+			tasks: [{
+				id: "7FDD733D413BFC5F"
+				item: "pneumaticcraft:unassembled_pcb"
+				type: "item"
+			}]
+			x: 18.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["63C4690CE4797923"]
+			id: "38A29B0BB56780F6"
+			tasks: [{
+				id: "1435643D0B1499B3"
+				item: "pneumaticcraft:printed_circuit_board"
+				type: "item"
+			}]
+			x: 20.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"362DD31D40F0D7C4"
+				"38A29B0BB56780F6"
+			]
+			id: "605D552B484FB72E"
+			tasks: [{
+				id: "3BACF207EC030477"
+				item: "mekanism:elite_control_circuit"
+				type: "item"
+			}]
+			x: 20.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["605D552B484FB72E"]
+			id: "5A4A34A7F8ECC8AC"
+			shape: "square"
+			tasks: [{
+				id: "4E3E12FB7AC0F4A6"
+				item: "computercraft:computer_advanced"
+				type: "item"
+			}]
+			x: 23.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["605D552B484FB72E"]
+			id: "4B56AA9E0BAF8A4F"
+			shape: "square"
+			tasks: [{
+				id: "30E599F404A1FEE1"
+				item: {
+					Count: 1
+					id: "mekanism:robit"
+					tag: {
+						mekData: {
+							EnergyContainers: [{
+								Container: 0b
+								stored: "100000"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 23.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["13D3368FA032B06B"]
+			id: "24CAE476E7ED6B16"
+			tasks: [{
+				id: "5CEB36F11EFF67C9"
+				item: "mekanism:chemical_injection_chamber"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["46D59966AD8AF33B"]
+			id: "7544A76F7434D4C9"
+			tasks: [{
+				id: "36559F9EE788186C"
+				item: "mekanism:enrichment_chamber"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["563A8BBE31A2948E"]
+			id: "65D9CB4052F340FA"
+			tasks: [{
+				id: "5C2DCACFB9366C27"
+				item: "create:brass_tunnel"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["605D552B484FB72E"]
+			id: "255D797ADF91DBA2"
+			tasks: [{
+				id: "1B4DB4431E794BA4"
+				item: "mekanism:chemical_dissolution_chamber"
+				type: "item"
+			}]
+			x: 23.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["49CBD00020228E6B"]
+			id: "04D7D7EABDBB3FBB"
+			tasks: [{
+				id: "5E08E70EA7B4844E"
+				item: "nuclearcraft:silicon_wafer"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["04D7D7EABDBB3FBB"]
+			id: "2F61DDA2461AD777"
+			tasks: [{
+				id: "09EBFD350F4A3C2E"
+				item: "pneumaticcraft:empty_pcb"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -5.5d
+		}
+	]
+	title: "电子科技"
+}

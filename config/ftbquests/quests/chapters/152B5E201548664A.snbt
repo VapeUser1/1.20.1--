@@ -1,0 +1,345 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "152B5E201548664A"
+	group: "2E2736AAC479FA15"
+	icon: "advgenerators:syngas_controller"
+	id: "152B5E201548664A"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5B871F187845F6DB"
+			tasks: [{
+				id: "6B4F165FC2805446"
+				item: "tconstruct:clear_glass"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5B871F187845F6DB"]
+			id: "41EB740F2C2AD6EE"
+			tasks: [{
+				id: "3E1B3EFEEECC9635"
+				item: "mm:lead_chamber"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["41EB740F2C2AD6EE"]
+			id: "281E77854418885F"
+			tasks: [{
+				id: "18EF63D12B529A17"
+				item: "nuclearcraft:sulfuric_acid_bucket"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["281E77854418885F"]
+			id: "7CBB3BE14E073D03"
+			tasks: [{
+				id: "79C78476174813F2"
+				item: "nuclearcraft:hydrochloric_acid_bucket"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["281E77854418885F"]
+			id: "17C642EFDB0ABE6E"
+			tasks: [{
+				id: "4A60AAE9646D1B7F"
+				item: "nuclearcraft:nitric_acid_bucket"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["281E77854418885F"]
+			id: "59FF0D9A8279AD0E"
+			tasks: [{
+				id: "24D8A17A71E1855B"
+				item: "immersiveengineering:capacitor_lv"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["281E77854418885F"]
+			id: "37B3242E32F99697"
+			tasks: [{
+				id: "78FE02981AF73396"
+				item: "tconstruct:cobalt_ingot"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"281E77854418885F"
+				"243DFC378CC497B2"
+			]
+			id: "53830A56255C6D27"
+			tasks: [{
+				id: "61E73577741984B4"
+				item: "thermal:nickel_ingot"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5B871F187845F6DB"]
+			id: "4CF329F99FF03B95"
+			tasks: [{
+				id: "7004B629D9AB1019"
+				item: "advgenerators:syngas_controller"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4CF329F99FF03B95"]
+			id: "243DFC378CC497B2"
+			tasks: [{
+				id: "78D24DCB3760A0D0"
+				item: {
+					Count: 1
+					id: "forestry:can"
+					tag: {
+						Damage: 1
+						Fluid: {
+							Amount: 1000
+							FluidName: "advgenerators:syngas"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["243DFC378CC497B2"]
+			id: "3ED38DA9DE015991"
+			tasks: [{
+				id: "7D25F243BC54318D"
+				item: "nuclearcraft:manganese_ingot"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"17C642EFDB0ABE6E"
+				"7CBB3BE14E073D03"
+			]
+			id: "0C4E0406CFAEBDBC"
+			tasks: [{
+				id: "2ABBC6749AF057C9"
+				item: "nuclearcraft:platinum_ingot"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0C4E0406CFAEBDBC"]
+			id: "714AC9A2F520000A"
+			tasks: [{
+				id: "140CA8010E7292F7"
+				item: "nuclearcraft:iridium_ingot"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0C4E0406CFAEBDBC"]
+			id: "77443BCA3A4F7274"
+			tasks: [{
+				id: "42D2D9642DC010D8"
+				item: "mekanism:ingot_osmium"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["243DFC378CC497B2"]
+			id: "6F9CD278F08C8D77"
+			tasks: [{
+				id: "1E3197EF81AC797C"
+				item: "nuclearcraft:hydrogen_bucket"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["59FF0D9A8279AD0E"]
+			id: "11EA851F81223E91"
+			tasks: [{
+				id: "302AE529FA9A8068"
+				item: "nuclearcraft:electrolyzer"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["11EA851F81223E91"]
+			id: "76F7C4B84694B9BA"
+			tasks: [{
+				id: "31EC938E4727F672"
+				item: "nuclearcraft:sodium_ingot"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["11EA851F81223E91"]
+			id: "21F639C921561AA1"
+			tasks: [{
+				id: "32FD7875E8D89DFC"
+				item: "nuclearcraft:magnesium_ingot"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["11EA851F81223E91"]
+			id: "59788D0A69BF2A79"
+			tasks: [{
+				id: "7CDC5A5F22A2676B"
+				item: "nuclearcraft:sodium_hydroxide_bucket"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["11EA851F81223E91"]
+			id: "12BA5C889364E363"
+			tasks: [{
+				id: "5D76DE9902976B6C"
+				item: "nuclearcraft:chlorine_bucket"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["59788D0A69BF2A79"]
+			id: "5F313E3D24E957E7"
+			tasks: [{
+				id: "61CA0A773AE16E14"
+				item: "nuclearcraft:alugentum_dust"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["12BA5C889364E363"]
+			id: "74DA37D751E1CC01"
+			tasks: [{
+				id: "35CEF4B95FE3983B"
+				item: "nuclearcraft:iodine_dust"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["74DA37D751E1CC01"]
+			id: "309E273A020B18E1"
+			shape: "square"
+			tasks: [{
+				id: "19F0CF6948C40448"
+				item: "exposure:black_and_white_film"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["6F9CD278F08C8D77"]
+			id: "145D79141661BE21"
+			tasks: [{
+				id: "40DEF28826C00BA6"
+				item: "nuclearcraft:tungsten_ingot"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["37B3242E32F99697"]
+			id: "0D881C76F44347E3"
+			shape: "square"
+			tasks: [{
+				id: "7D3B1D9571A89B20"
+				item: {
+					Count: 1
+					id: "tconstruct:plate_chestplate"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: [
+							"tconstruct:manyullyn"
+							"tconstruct:hepatizon"
+						]
+						tic_modifiers: [{
+							level: 1
+							name: "tconstruct:kinetic"
+						}]
+						tic_multipliers: {
+							"tconstruct:attack_damage": 0.4f
+						}
+						tic_persistent: { }
+						tic_stats: {
+							"tconstruct:armor": 7.0f
+							"tconstruct:armor_toughness": 3.0f
+							"tconstruct:durability": 560.0f
+							"tconstruct:knockback_resistance": 0.05f
+						}
+						tic_volatile_data: {
+							defense: 3
+							upgrades: 2
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["145D79141661BE21"]
+			id: "402B1557B4C99D18"
+			tasks: [{
+				id: "6984725ACECE226B"
+				item: "nuclearcraft:tungsten_carbide_ingot"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -5.0d
+		}
+	]
+	title: "化学工业"
+}

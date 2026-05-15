@@ -1,0 +1,307 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "598F8C24983C334F"
+	group: "300B14D697E47AEC"
+	icon: "pneumaticcraft:plastic"
+	id: "598F8C24983C334F"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["67F42D5D020C0544"]
+			id: "426E9E41190CC105"
+			tasks: [{
+				id: "3A713423B455E4B0"
+				item: "pneumaticcraft:refinery"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"426E9E41190CC105"
+				"67F42D5D020C0544"
+			]
+			id: "5C19287AA8FD717D"
+			tasks: [{
+				id: "6ADC4C410697EA00"
+				item: "pneumaticcraft:refinery_output"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5C19287AA8FD717D"]
+			id: "7673735A31AF65D4"
+			tasks: [{
+				id: "37263E84844B72DC"
+				item: "immersivepetroleum:diesel_sulfur_bucket"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5C19287AA8FD717D"]
+			id: "5E759B0D49B357A1"
+			tasks: [{
+				id: "4D3BC1BAEA17DEA8"
+				item: "immersivepetroleum:kerosene_bucket"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5C19287AA8FD717D"]
+			id: "5A4A1F499DFFEDAA"
+			tasks: [{
+				id: "186BF30711297FF4"
+				item: "immersivepetroleum:gasoline_bucket"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5C19287AA8FD717D"]
+			id: "606A52DBFFB349E9"
+			tasks: [{
+				id: "74DE4A692DF68C85"
+				item: {
+					Count: 1
+					id: "forestry:can"
+					tag: {
+						Damage: 1
+						Fluid: {
+							Amount: 1000
+							FluidName: "pneumaticcraft:lpg"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			id: "67F42D5D020C0544"
+			tasks: [{
+				id: "560106B54EB94028"
+				item: "pneumaticcraft:ingot_iron_compressed"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["67F42D5D020C0544"]
+			id: "054FB9A2E6F3EC77"
+			tasks: [{
+				id: "0E3FF1BE08F265A8"
+				item: "pneumaticcraft:thermopneumatic_processing_plant"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"054FB9A2E6F3EC77"
+				"606A52DBFFB349E9"
+			]
+			id: "450C888DFE1659A3"
+			tasks: [{
+				id: "2C8B26FCC44B82CB"
+				item: "pneumaticcraft:plastic"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["450C888DFE1659A3"]
+			id: "1E02A0F99006460E"
+			tasks: [{
+				id: "4BED5BFB96CD82E8"
+				item: "immersiveengineering:heavy_engineering"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1E02A0F99006460E"]
+			id: "5ECE897E490B3E3D"
+			tasks: [{
+				id: "716C3509B4C10943"
+				item: "immersivepetroleum:hydrotreater"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"7673735A31AF65D4"
+				"5ECE897E490B3E3D"
+			]
+			id: "742818265A0F335B"
+			tasks: [{
+				id: "4997A3BF4B85FD7F"
+				item: "immersivepetroleum:diesel_bucket"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1E02A0F99006460E"]
+			id: "74A8F3F1B256A4C3"
+			tasks: [{
+				id: "6E8CD91F1DE8D4CF"
+				item: "immersivepetroleum:distillation_tower"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["74A8F3F1B256A4C3"]
+			id: "382C97044FE2BF56"
+			tasks: [{
+				id: "690ACF085C3C0039"
+				item: "immersivepetroleum:naphtha_bucket"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["382C97044FE2BF56"]
+			id: "53FC899042C26C0C"
+			tasks: [{
+				id: "04D7A473603AE769"
+				item: "immersivepetroleum:petroleum_gas_bucket"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["53FC899042C26C0C"]
+			id: "59C5D09EE73BF884"
+			tasks: [{
+				id: "7888D9EC8D026259"
+				item: "nuclearcraft:ethene_bucket"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["53FC899042C26C0C"]
+			id: "7186BACB427855F1"
+			tasks: [{
+				id: "2D5E59A23AAE7445"
+				item: "immersivepetroleum:benzol_bucket"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7186BACB427855F1"]
+			id: "0B16E10B945F7999"
+			tasks: [{
+				id: "09FF5BAFD2324EF4"
+				item: "minecraft:tnt"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["59C5D09EE73BF884"]
+			id: "7F0EABBEFDE0D52E"
+			tasks: [{
+				id: "1F8D30A09319628F"
+				item: "mekanism:hdpe_sheet"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["59C5D09EE73BF884"]
+			id: "7907C042AC590854"
+			tasks: [{
+				id: "191792BB3ABE099E"
+				item: "immersiveengineering:acetaldehyde_bucket"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["7907C042AC590854"]
+			id: "02FE728F71DB195B"
+			tasks: [{
+				id: "494CA20EF94A87D2"
+				item: "immersiveengineering:phenolic_resin_bucket"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["59C5D09EE73BF884"]
+			id: "126785176B821020"
+			tasks: [{
+				id: "095DB9530B30D21B"
+				item: "mekanism:enriched_carbon"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -2.5d
+		}
+		{
+			id: "46B31846E593BFC8"
+			tasks: [{
+				id: "0902A9F1C5DC06EE"
+				item: "nuclearcraft:hard_carbon_ingot"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -10.0d
+		}
+		{
+			id: "2CFEEB303E0C6A17"
+			tasks: [{
+				id: "7059828D5560D939"
+				item: "nuclearcraft:tough_alloy_ingot"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			dependencies: [
+				"2CFEEB303E0C6A17"
+				"46B31846E593BFC8"
+			]
+			id: "1581D328271BB6FF"
+			tasks: [{
+				id: "6C777C248F9C26D4"
+				item: "immersivepetroleum:seismic_survey"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -10.0d
+		}
+	]
+	title: "石油化工"
+}

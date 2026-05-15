@@ -1,0 +1,308 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2193811088BBA458"
+	group: "01328A6FE6C6CD1E"
+	icon: {
+		Count: 1
+		id: "northstar:iron_space_suit_chestpiece"
+		tag: {
+			Damage: 0
+			Oxygen: 2000
+			display: {
+				Lore: ["{\"italic\":false,\"color\":\"gray\",\"text\":\"Oxygen: 2000mb\"}"]
+			}
+		}
+	}
+	id: "2193811088BBA458"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "56193E11ED5E7712"
+			tasks: [{
+				id: "5BBBA4C6207BD3F7"
+				item: {
+					Count: 1
+					id: "immersiveengineering:graphite_electrode"
+					tag: {
+						graphDmg: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["56193E11ED5E7712"]
+			id: "5E4B81B4396224B3"
+			tasks: [{
+				id: "31CC8F9CE5C3F806"
+				item: "nuclearcraft:niobium_titanium_ingot"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["56193E11ED5E7712"]
+			id: "03622B5FE4D9F183"
+			tasks: [{
+				id: "0A928CAA362C6450"
+				item: "nuclearcraft:silicon_carbide_ingot"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["03622B5FE4D9F183"]
+			id: "37A17F2381C505B1"
+			tasks: [{
+				id: "44945BE303F470C5"
+				item: "nuclearcraft:sic_sic_cmc_ingot"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"37A17F2381C505B1"
+				"5E4B81B4396224B3"
+			]
+			id: "1D3D9C9357E388FE"
+			tasks: [{
+				id: "72335C28C7E84B28"
+				item: "immersiveengineering:toolupgrade_chemthrower_focus"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5E4B81B4396224B3"]
+			id: "07622E7A153FF8CA"
+			tasks: [{
+				id: "2CFA7FA567CB6AE2"
+				item: "advgenerators:efficiency_upgrade_tier2"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"07622E7A153FF8CA"
+				"0E781B3DA3E7611E"
+			]
+			id: "142F7D57C9EA2E67"
+			tasks: [{
+				id: "6BCBA55195C00517"
+				item: "advgenerators:fuel_turbine_controller"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["56193E11ED5E7712"]
+			id: "0E781B3DA3E7611E"
+			tasks: [{
+				id: "6E966E548142D00B"
+				item: "nuclearcraft:extreme_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0E781B3DA3E7611E"]
+			id: "719A0C588E7DB019"
+			tasks: [{
+				id: "2BE07AF269A0ED2B"
+				item: "advgenerators:efficiency_upgrade_tier1"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0E781B3DA3E7611E"]
+			id: "10390CB665573D63"
+			tasks: [{
+				id: "51FF4C75032BF078"
+				item: "compressedcreativity:engine_rotor"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"719A0C588E7DB019"
+				"10390CB665573D63"
+				"07622E7A153FF8CA"
+			]
+			id: "6AEF72EA7F1682DD"
+			tasks: [{
+				id: "3D8C6D56F6014BD0"
+				item: "northstar:combustion_engine"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"1D3D9C9357E388FE"
+				"6AEF72EA7F1682DD"
+				"42420B0A2D691CA1"
+			]
+			id: "19791B0D0E9E4E5B"
+			tasks: [{
+				id: "13604C73AE6BA40C"
+				item: "northstar:jet_engine"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["10390CB665573D63"]
+			id: "02DD218B8EA5BF71"
+			tasks: [{
+				id: "54DF4DF78A918450"
+				item: "mts:mtsofficialpack.enginepw610f"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["37A17F2381C505B1"]
+			id: "42420B0A2D691CA1"
+			tasks: [{
+				id: "5ED12C06D6BBAA45"
+				item: "nuclearcraft:sic_sic_cmc_plate"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1D3D9C9357E388FE"]
+			id: "33A9658CCA221107"
+			tasks: [{
+				id: "66C7AE5242EAF37F"
+				item: "ballistix:missiletier1"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["19791B0D0E9E4E5B"]
+			id: "554B8794DAE13A4A"
+			tasks: [{
+				id: "62D1BEA5C4FB02FB"
+				item: "ballistix:missiletier3"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["42420B0A2D691CA1"]
+			id: "172912C0B510073F"
+			tasks: [{
+				id: "5536F6DB26DC6827"
+				item: {
+					Count: 1
+					id: "northstar:iron_space_suit_chestpiece"
+					tag: {
+						Damage: 0
+						Oxygen: 2000
+						display: {
+							Lore: ["{\"italic\":false,\"color\":\"gray\",\"text\":\"Oxygen: 2000mb\"}"]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.5d
+		}
+		{
+			id: "5501CECF591DE9B9"
+			tasks: [{
+				id: "589C9A5660AE9EA8"
+				item: "mekanism:advanced_control_circuit"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5501CECF591DE9B9"]
+			id: "603984D9B3B3132D"
+			tasks: [{
+				id: "122AFF97E1F9B6AE"
+				item: "northstar:oxygen_filler"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5501CECF591DE9B9"]
+			id: "40F0E8FDFD36CE72"
+			tasks: [{
+				id: "75D0C81AE29DD658"
+				item: "northstar:rocket_station"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["5501CECF591DE9B9"]
+			id: "1A0D158ED11002CF"
+			tasks: [{
+				id: "275C568882B01872"
+				item: "northstar:rocket_controls"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"19791B0D0E9E4E5B"
+				"1A0D158ED11002CF"
+			]
+			icon: "northstar:moon_sand"
+			id: "65EC18DDFB6DDAA6"
+			tasks: [{
+				dimension: "northstar:moon"
+				id: "15F6581B7DDFB0A3"
+				type: "dimension"
+			}]
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["02DD218B8EA5BF71"]
+			id: "0EA6240776D858AD"
+			tasks: [{
+				id: "0D2D04337D16DFC3"
+				item: "mts:mtsofficialpack.e500_blue"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 8.0d
+		}
+	]
+	title: "[支线]航空航天"
+}

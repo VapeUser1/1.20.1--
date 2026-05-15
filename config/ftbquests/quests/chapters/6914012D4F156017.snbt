@@ -1,0 +1,261 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6914012D4F156017"
+	group: "7D47EF0CE7FF812E"
+	icon: "ae2:certus_quartz_crystal"
+	id: "6914012D4F156017"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6EAD7BF22D330A92"
+			tasks: [{
+				id: "5FE01564BF73FD7C"
+				item: "create:encased_fan"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6EAD7BF22D330A92"]
+			id: "3783C58913D24A00"
+			tasks: [{
+				id: "7BDF8C21ED3C5410"
+				item: "nuclearcraft:graphite_dust"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3783C58913D24A00"]
+			id: "1992D9BA2A981824"
+			tasks: [{
+				id: "4D87DC71D461671F"
+				item: "immersiveengineering:cokebrick"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1992D9BA2A981824"]
+			id: "010D1D4CAF74D438"
+			tasks: [{
+				id: "0F9075463EC8D923"
+				item: "immersiveengineering:coal_coke"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1992D9BA2A981824"]
+			id: "74EECD7F50436B8A"
+			tasks: [{
+				id: "01D9667C6C9741D3"
+				item: "immersiveengineering:treated_wood_horizontal"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["010D1D4CAF74D438"]
+			id: "6F9E00CC7B0311F5"
+			tasks: [{
+				id: "7512F80872EAC856"
+				item: "immersiveengineering:dust_coke"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3783C58913D24A00"]
+			id: "7069D5FC4D555F97"
+			tasks: [{
+				id: "5AE6FACC614B6AFB"
+				item: "create:mechanical_pump"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3783C58913D24A00"]
+			id: "63075138B91F2DFE"
+			tasks: [{
+				id: "0158B087B0040161"
+				item: "create:fluid_valve"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"6F9E00CC7B0311F5"
+				"7C4E788760625C78"
+			]
+			id: "06EA43CAEEE90030"
+			tasks: [{
+				id: "58B443B88981884C"
+				item: "createbigcannons:nethersteel_ingot"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7069D5FC4D555F97"]
+			id: "02358A3F3D191C4D"
+			tasks: [{
+				id: "3B6F9B000CF4CC88"
+				item: "vintageimprovements:vacuum_chamber"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02358A3F3D191C4D"]
+			id: "0382035538CC94C3"
+			tasks: [{
+				id: "535771E1B5866408"
+				item: "ae2:certus_quartz_crystal"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			id: "79FD3FD068F15DFB"
+			tasks: [{
+				id: "250627622F8D7E38"
+				item: "vintageimprovements:belt_grinder"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["79FD3FD068F15DFB"]
+			id: "5DF90232770E3F76"
+			tasks: [{
+				id: "0ACA0A2D8C662881"
+				item: "botania:lens_normal"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["74EECD7F50436B8A"]
+			id: "0376E0AD1753FBF9"
+			tasks: [{
+				id: "10114BDBC020EA2D"
+				item: "immersiveengineering:workbench"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"0376E0AD1753FBF9"
+				"5DF90232770E3F76"
+			]
+			id: "45DECE2499D46951"
+			tasks: [
+				{
+					id: "7FD4D3E60B256FFF"
+					item: "create:goggles"
+					type: "item"
+				}
+				{
+					id: "658385102ECA1B49"
+					item: {
+						Count: 1
+						id: "forestry:naturalist_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4259893731F04502"
+					item: {
+						Count: 1
+						id: "tconstruct:travelers_helmet"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_modifiers: [{
+								level: 1
+								name: "tconstruct:tanned"
+							}]
+							tic_persistent: { }
+							tic_stats: {
+								"tconstruct:armor": 1.0f
+								"tconstruct:durability": 110.0f
+							}
+							tic_volatile_data: {
+								abilities: 1
+								defense: 2
+								upgrades: 3
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"0376E0AD1753FBF9"
+				"5DF90232770E3F76"
+			]
+			id: "5EAACFD15293FC34"
+			shape: "square"
+			tasks: [{
+				id: "16F481102563A6ED"
+				item: "forestry:analyzer"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"6F9E00CC7B0311F5"
+				"02358A3F3D191C4D"
+			]
+			id: "7C4E788760625C78"
+			tasks: [{
+				id: "1423D97DB5F7BA62"
+				item: "kubejs:injecting_fuel_bucket"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0382035538CC94C3"]
+			id: "36ABC8370C081F76"
+			tasks: [{
+				id: "7D5A8864B67FC49A"
+				item: "tconstruct:clear_glass"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -2.5d
+		}
+	]
+	title: "技术革新"
+}

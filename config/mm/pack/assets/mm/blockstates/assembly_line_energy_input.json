@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mm:block/assembly_line_energy_input"
+    }
+  }
+}

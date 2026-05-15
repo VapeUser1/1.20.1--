@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/nethersteel"
+  },
+  "result": {
+    "amount": 90,
+    "tag": "forge:molten_nethersteel"
+  },
+  "temperature": 750,
+  "time": 60
+}

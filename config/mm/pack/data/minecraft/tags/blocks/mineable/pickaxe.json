@@ -1,0 +1,16 @@
+{
+  "values": [
+    "mm:assembly_line",
+    "mm:lead_chamber",
+    "mm:assembly_line_item_input",
+    "mm:assembly_line_item_output",
+    "mm:assembly_line_fluid_input",
+    "mm:assembly_line_fluid_output",
+    "mm:assembly_line_energy_input",
+    "mm:assembly_line_energy_output",
+    "mm:lead_chamber_item_input",
+    "mm:lead_chamber_item_output",
+    "mm:lead_chamber_fluid_input",
+    "mm:lead_chamber_fluid_output"
+  ]
+}

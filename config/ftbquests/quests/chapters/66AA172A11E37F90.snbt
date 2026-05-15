@@ -1,0 +1,254 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "66AA172A11E37F90"
+	group: "2E2736AAC479FA15"
+	icon: "createaddition:alternator"
+	id: "66AA172A11E37F90"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "215B5E666F5707D5"
+			tasks: [{
+				id: "6B4FC28475934404"
+				item: "immersiveengineering:capacitor_lv"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"215B5E666F5707D5"
+				"26140993184533EA"
+			]
+			id: "4319979711E4F618"
+			tasks: [{
+				id: "3F6E139BB77549D4"
+				item: "createaddition:electric_motor"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"4319979711E4F618"
+				"26140993184533EA"
+			]
+			id: "4244688099ED23C1"
+			tasks: [{
+				id: "51FA8F51896EAA54"
+				item: "createaddition:alternator"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["090517331430122B"]
+			id: "26140993184533EA"
+			tasks: [{
+				id: "35828251A36C8EB7"
+				item: "immersiveengineering:wirecoil_copper"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			id: "090517331430122B"
+			tasks: [{
+				id: "6119CAC3B10ED15F"
+				item: "create:deployer"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["090517331430122B"]
+			id: "739B08E72990C344"
+			tasks: [{
+				id: "14D8AA4219812223"
+				item: "immersiveengineering:light_engineering"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"739B08E72990C344"
+				"2C4792D3E3CCAC7E"
+			]
+			id: "456121C0191A47B8"
+			tasks: [{
+				id: "46A02EDDE747F2D4"
+				item: "immersiveengineering:squeezer"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"739B08E72990C344"
+				"2C4792D3E3CCAC7E"
+			]
+			id: "5CADA7AAA2846A72"
+			tasks: [{
+				id: "0A94B336C8F1ADFC"
+				item: "immersiveengineering:mixer"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"739B08E72990C344"
+				"2C4792D3E3CCAC7E"
+			]
+			id: "1A78516938DE345A"
+			tasks: [{
+				id: "1B09DE5A63F3F2BF"
+				item: "immersiveengineering:crusher"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["090517331430122B"]
+			id: "3964D6223DAAC63C"
+			tasks: [{
+				id: "330946B77F487CFE"
+				item: "vintageimprovements:redstone_module"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3964D6223DAAC63C"]
+			id: "2C4792D3E3CCAC7E"
+			tasks: [{
+				id: "6483969A0A9AC3B3"
+				item: "immersiveengineering:rs_engineering"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1A78516938DE345A"]
+			id: "461F3774C3A80298"
+			tasks: [{
+				id: "4C209940B1CECFF0"
+				item: "createbigcannons:steel_scrap"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["5CADA7AAA2846A72"]
+			id: "3F282A85AC35BDF6"
+			tasks: [{
+				id: "5F55BD86BF2FD74B"
+				item: "immersiveengineering:concrete"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"456121C0191A47B8"
+				"3F282A85AC35BDF6"
+			]
+			id: "308B2C64D4E3A096"
+			tasks: [{
+				id: "3D9B21CE1BB2A2F6"
+				item: "immersiveengineering:blastbrick_reinforced"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["308B2C64D4E3A096"]
+			id: "7D812B3E90D1A65E"
+			tasks: [{
+				id: "03EA65E85C68B6EC"
+				item: "thermal:invar_ingot"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["308B2C64D4E3A096"]
+			id: "23B480FF3AED28ED"
+			tasks: [{
+				id: "388AE5EF5E96BF8B"
+				item: "tinkers_reforged:duralumin_ingot"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3964D6223DAAC63C"]
+			id: "56D5354C01070F23"
+			tasks: [{
+				id: "4A03DE9A04DF5D6A"
+				item: "thermal:tinker_bench"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["56D5354C01070F23"]
+			id: "06FF8A945CF87640"
+			shape: "square"
+			tasks: [{
+				id: "6D5CB2E75D709344"
+				item: {
+					Count: 1
+					id: "thermal:flux_drill"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["56D5354C01070F23"]
+			id: "45D3AC6EB627864B"
+			tasks: [{
+				id: "66378DFB192DFAE8"
+				item: {
+					Count: 1
+					id: "mekanism:configurator"
+					tag: {
+						mekData: {
+							EnergyContainers: [{
+								Container: 0b
+								stored: "60000"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -10.0d
+		}
+	]
+	title: "早期电力"
+}

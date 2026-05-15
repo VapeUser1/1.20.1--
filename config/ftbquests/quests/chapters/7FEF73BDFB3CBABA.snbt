@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7FEF73BDFB3CBABA"
+	group: "01328A6FE6C6CD1E"
+	icon: "planttech2:dna_extractor"
+	id: "7FEF73BDFB3CBABA"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	title: "[支线]生物工程"
+}

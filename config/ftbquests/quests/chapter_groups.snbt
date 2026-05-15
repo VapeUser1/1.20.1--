@@ -1,0 +1,13 @@
+{
+	chapter_groups: [
+		{ id: "1B5246E5C955D37F", title: "第一章——石器与陶土" }
+		{ id: "214CC005E72A5484", title: "第二章——铸铜与锻铁" }
+		{ id: "3695B471C34C05FF", title: "第三章——齿轮与蜂群" }
+		{ id: "7D47EF0CE7FF812E", title: "第四章——黄铜与火药" }
+		{ id: "2E2736AAC479FA15", title: "第五章——蒸汽与铁道" }
+		{ id: "300B14D697E47AEC", title: "第六章——电流与油气" }
+		{ id: "01328A6FE6C6CD1E", title: "第七章——原子与星空" }
+		{ id: "39569C78B795407D", title: "第八章——奇点与量子" }
+		{ id: "73742333A16CAFA5", title: "终章" }
+	]
+}

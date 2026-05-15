@@ -1,0 +1,149 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "false",
+			"lit": "true",
+			"facing": "north"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "true",
+			"lit": "false",
+			"facing": "north"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "false",
+			"lit": "false",
+			"facing": "north"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "true",
+			"lit": "true",
+			"facing": "south"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "false",
+			"lit": "true",
+			"facing": "south"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "true",
+			"lit": "false",
+			"facing": "south"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "false",
+			"lit": "false",
+			"facing": "south"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "true",
+			"lit": "true",
+			"facing": "west"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "false",
+			"lit": "true",
+			"facing": "west"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "true",
+			"lit": "false",
+			"facing": "west"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "false",
+			"lit": "false",
+			"facing": "west"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "true",
+			"lit": "true",
+			"facing": "east"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "false",
+			"lit": "true",
+			"facing": "east"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "true",
+			"lit": "false",
+			"facing": "east"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"redstone_locked": "false",
+			"lit": "false",
+			"facing": "east"
+		},
+		"Name": "steampowered:cast_iron_burner"
+	}
+]

@@ -327,4 +327,6 @@
 	"Lock Table Whitelist" = []
 	#Whether to show the update log when the player logs in.
 	"Update Log in 130" = false
+	#Whether entities with Exposure and Sound Decoys render position indicators for players.
+	"Exposure Indicator" = true
 

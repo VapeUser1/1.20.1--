@@ -1,0 +1,455 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "1"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "2"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "3"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "4"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "5"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "6"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "7"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "8"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "9"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "10"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "11"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "12"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "13"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "14"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "15"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "16"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "17"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "18"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "19"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "20"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "21"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "22"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "23"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "24"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "25"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "26"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "27"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "28"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "29"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "30"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "31"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "32"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "33"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "34"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "35"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "36"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "37"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "38"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "39"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "40"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "41"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "42"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "43"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "44"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "45"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "46"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "47"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "48"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "49"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "50"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "51"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "52"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "53"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "54"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "55"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "56"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "57"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "58"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "59"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "60"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "61"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "62"
+		},
+		"Name": "forestry:ash_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"amount": "63"
+		},
+		"Name": "forestry:ash_block"
+	}
+]

@@ -1,5 +1,4 @@
 ServerEvents.recipes(event=>{
-    // 优化: remove1 内曾含重复的 output id，重复 event.remove 无意义，已去重
     var remove1 = [
         'minecraft:crafting_table',
         'minecraft:furnace',
@@ -16,6 +15,7 @@ ServerEvents.recipes(event=>{
         'create:brass_hand',
         'create:fluid_valve',
         'create:mechanical_pump',
+        'vintageimprovements:vacuum_chamber',
         'create:mechanical_press',
         'create:empty_blaze_burner',
         'create:basin',
@@ -29,6 +29,7 @@ ServerEvents.recipes(event=>{
         'tconstruct:tinkers_anvil',
         'forestry:sturdy_machine',
         'createaddition:rolling_mill',
+        'vintageimprovements:vacuum_chamber',
         'tconstruct:travelers_helmet',
         'forestry:naturalist_helmet',
         'createbigcannons:cannon_drill',
@@ -50,6 +51,7 @@ ServerEvents.recipes(event=>{
         'createbigcannons:basin_foundry_lid',
         'minecraft:spyglass',
         'northstar:telescope',
+        'minecraft:bone_meal',
         'immersiveengineering:cokebrick',
         'minecraft:blaze_powder',
         'minecraft:book',
@@ -73,6 +75,7 @@ ServerEvents.recipes(event=>{
         'create:mechanical_drill', 
         'vintageimprovements:lathe', 
         'thermal:satchel',
+        'immersiveengineering:rs_engineering',
         'immersiveengineering:capacitor_lv', 
         'immersiveengineering:capacitor_mv', 
         'immersiveengineering:capacitor_hv',
@@ -274,5 +277,109 @@ ServerEvents.recipes(event=>{
         ['minecraft:air', '#forge:rods/brass', 'minecraft:air'],
         ['minecraft:air', '#forge:gears/iron', 'minecraft:air']
     ])
-    // 优化: 以下为空白 shaped 模板占位，已删去百余行重复注释以减轻解析与维护负担；需要时自行 event.shaped 即可
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+    event.shaped(,[
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air'],
+        ['minecraft:air', 'minecraft:air', 'minecraft:air']
+    ])
+    /*
+
+*/
 })

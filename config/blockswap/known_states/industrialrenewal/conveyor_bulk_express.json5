@@ -1,0 +1,5186 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "true"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "north",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "south",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "west",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "true",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "0",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "1",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "basic",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "fast",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "hopper",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "inserter",
+			"tier": "express",
+			"mode": "2",
+			"front": "false",
+			"facing": "east",
+			"back": "false"
+		},
+		"Name": "industrialrenewal:conveyor_bulk_express"
+	}
+]

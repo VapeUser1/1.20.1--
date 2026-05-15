@@ -1,0 +1,1411 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "down_east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "down_east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "down_east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "down_east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "down_east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "down_east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "down_east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "down_east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "east",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "down_west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "down_west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "down_west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "down_west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "down_west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "down_west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "down_west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "down_west",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "down_south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "down_south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "down_south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "down_south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "down_south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "down_south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "down_south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "down_south",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "down_north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "down_north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "down_north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "down_north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "down_north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "down_north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "down_north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "down_north",
+			"east": "true"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "down_east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "down_east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "down_east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "down_east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "down_east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "down_east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "down_east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "east",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "down_west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "down_west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "down_west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "down_west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "down_west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "down_west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "down_west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "down_west",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "down_south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "down_south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "down_south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "down_south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "down_south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "down_south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "down_south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "down_south",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"facing": "down_north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"facing": "down_north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"facing": "down_north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"facing": "down_north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"facing": "down_north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"facing": "down_north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"facing": "down_north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"facing": "down_north",
+			"east": "false"
+		},
+		"Name": "industrialrenewal:brace"
+	}
+]

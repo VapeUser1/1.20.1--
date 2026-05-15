@@ -34,6 +34,12 @@
 	#Sync in-game seasons with the real-world date.
 	#Warning: May cause day-counter or calendar conflicts with other mods.
 	RealWorldSolarTerms = false
+	#Shifts the displayed month index. This does NOT affect internal solar term calculations.
+	#Range: -11 ~ 11
+	MonthOffset = 1
+	#Shifts the calendar day relative to solar terms. Example: 2 means solar day 0 appears as the 3rd day of the month.
+	#Range: -64 ~ 64
+	DayOffset = 2
 
 [Weather]
 	#Enable localized weather patterns where rain or sun is determined per-biome.
@@ -154,8 +160,10 @@
 	ForceServerConfig = true
 
 [Map]
-	#Synchronize map colors to reflect atmospheric snow overlays.
-	ChangeMapColor = true
+	#Synchronize all map color rendering with visual snow overlays. May affect compatibility with other mods.
+	ChangeMapColorIfSnowy = false
+	#Only adjust map item colors to reflect visual snow overlays. Safer for mod compatibility.
+	ChangeMapColorMapItem = true
 
 [Animal]
 	#Limit animal breeding to their natural, compatible seasons.
@@ -183,8 +191,6 @@
 [Resource]
 	#Enable extra built-in snow definitions resourcepack for game.
 	ExtraSnowDefinitions = false
-	#Synchronizes weather states across all Overworld biomes, ensuring global rainfall.
-	RainTogether = false
 	#Synchronizes the snowfall schedule for all Overworld biomes.
 	SnowTogether = false
 	#Aligns snowfall schedules based on three broad climate zones (Warm, Temperate, and Cold) instead of per-biome.

@@ -1,0 +1,2819 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "0",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "0",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "0",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "0",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "0",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "0",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "0",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "0",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "1",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "1",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "1",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "1",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "1",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "1",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "1",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "1",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "2",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "2",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "2",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "2",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "2",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "2",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "2",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "2",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "3",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "3",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "3",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "3",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "3",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "3",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "3",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "3",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "4",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "4",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "4",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "4",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "4",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "4",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "4",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "4",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "5",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "5",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "5",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "5",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "5",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "5",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "5",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "5",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "6",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "6",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "6",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "6",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "6",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "6",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "6",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "6",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "7",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "7",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "7",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "7",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "7",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "7",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "7",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "7",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "8",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "8",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "8",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "8",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "8",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "8",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "8",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "8",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "9",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "9",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "9",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "9",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "9",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "9",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "9",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "9",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "10",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "10",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "10",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "10",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "10",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "10",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "10",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "10",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "11",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "11",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "11",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "11",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "11",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "11",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "11",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "11",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "12",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "12",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "12",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "12",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "12",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "12",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "12",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "12",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "13",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "13",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "13",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "13",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "13",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "13",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "13",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "13",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "14",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "14",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "14",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "14",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "14",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "14",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "14",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "14",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "15",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "15",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "15",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "15",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "15",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "15",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "15",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "15",
+			"east": "true"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "0",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "0",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "0",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "0",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "0",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "0",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "0",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "1",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "1",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "1",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "1",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "1",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "1",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "1",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "1",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "2",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "2",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "2",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "2",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "2",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "2",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "2",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "2",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "3",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "3",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "3",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "3",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "3",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "3",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "3",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "3",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "4",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "4",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "4",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "4",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "4",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "4",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "4",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "4",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "5",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "5",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "5",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "5",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "5",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "5",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "5",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "5",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "6",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "6",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "6",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "6",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "6",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "6",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "6",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "6",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "7",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "7",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "7",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "7",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "7",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "7",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "7",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "7",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "8",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "8",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "8",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "8",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "8",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "8",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "8",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "8",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "9",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "9",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "9",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "9",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "9",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "9",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "9",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "9",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "10",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "10",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "10",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "10",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "10",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "10",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "10",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "10",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "11",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "11",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "11",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "11",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "11",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "11",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "11",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "11",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "12",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "12",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "12",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "12",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "12",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "12",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "12",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "12",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "13",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "13",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "13",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "13",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "13",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "13",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "13",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "13",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "14",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "14",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "14",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "14",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "14",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "14",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "14",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "14",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"electric_power": "15",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"electric_power": "15",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"electric_power": "15",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"electric_power": "15",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"electric_power": "15",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"electric_power": "15",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"electric_power": "15",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"electric_power": "15",
+			"east": "false"
+		},
+		"Name": "planttech2:electric_fence"
+	}
+]

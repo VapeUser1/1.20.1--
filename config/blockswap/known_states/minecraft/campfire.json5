@@ -1,0 +1,1538 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "north"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "true",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "true",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "true",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"signal_fire": "false",
+			"runs_out": "false",
+			"lit": "false",
+			"infinite": "false",
+			"facing": "east"
+		},
+		"Name": "minecraft:campfire"
+	}
+]

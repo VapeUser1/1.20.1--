@@ -1,0 +1,134 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "0",
+			"copper": "true"
+		},
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "1",
+			"copper": "true"
+		},
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "2",
+			"copper": "true"
+		},
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "3",
+			"copper": "true"
+		},
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "4",
+			"copper": "true"
+		},
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "5",
+			"copper": "true"
+		},
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "6",
+			"copper": "true"
+		},
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "7",
+			"copper": "true"
+		},
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "1",
+			"copper": "false"
+		},
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "2",
+			"copper": "false"
+		},
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "3",
+			"copper": "false"
+		},
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "4",
+			"copper": "false"
+		},
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "5",
+			"copper": "false"
+		},
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "6",
+			"copper": "false"
+		},
+		"Name": "planttech2:endstone_crop"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"growstate": "7",
+			"copper": "false"
+		},
+		"Name": "planttech2:endstone_crop"
+	}
+]

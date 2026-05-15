@@ -317,6 +317,42 @@
       "general.custom2": {
         "keyCode": 321,
         "isMouseButton": false
+      },
+      "general.custom5": {
+        "keyCode": 324,
+        "isMouseButton": false
+      },
+      "general.custom6": {
+        "keyCode": 325,
+        "isMouseButton": false
+      },
+      "general.custom7": {
+        "keyCode": 326,
+        "isMouseButton": false
+      },
+      "general.custom8": {
+        "keyCode": 327,
+        "isMouseButton": false
+      },
+      "general.custom9": {
+        "keyCode": 328,
+        "isMouseButton": false
+      },
+      "general.custom10": {
+        "keyCode": 329,
+        "isMouseButton": false
+      },
+      "aircraft.mouseyoke": {
+        "keyCode": 67,
+        "isMouseButton": false
+      },
+      "aircraft.camlock": {
+        "keyCode": 342,
+        "isMouseButton": false
+      },
+      "car.camlock": {
+        "keyCode": 342,
+        "isMouseButton": false
       }
     },
     "joystick": {
@@ -771,6 +807,48 @@
         "axisMaxTravel": 0.0
       },
       "car.look_lr": {
+        "buttonIndex": 0,
+        "invertedAxis": false,
+        "axisMinTravel": 0.0,
+        "axisMaxTravel": 0.0
+      },
+      "general.custom5": {
+        "buttonIndex": 0,
+        "invertedAxis": false,
+        "axisMinTravel": 0.0,
+        "axisMaxTravel": 0.0
+      },
+      "general.custom6": {
+        "buttonIndex": 0,
+        "invertedAxis": false,
+        "axisMinTravel": 0.0,
+        "axisMaxTravel": 0.0
+      },
+      "general.custom7": {
+        "buttonIndex": 0,
+        "invertedAxis": false,
+        "axisMinTravel": 0.0,
+        "axisMaxTravel": 0.0
+      },
+      "general.custom8": {
+        "buttonIndex": 0,
+        "invertedAxis": false,
+        "axisMinTravel": 0.0,
+        "axisMaxTravel": 0.0
+      },
+      "general.custom9": {
+        "buttonIndex": 0,
+        "invertedAxis": false,
+        "axisMinTravel": 0.0,
+        "axisMaxTravel": 0.0
+      },
+      "general.custom10": {
+        "buttonIndex": 0,
+        "invertedAxis": false,
+        "axisMinTravel": 0.0,
+        "axisMaxTravel": 0.0
+      },
+      "aircraft.mouseyoke": {
         "buttonIndex": 0,
         "invertedAxis": false,
         "axisMinTravel": 0.0,

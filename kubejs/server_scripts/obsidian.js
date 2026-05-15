@@ -1,4 +1,6 @@
-// 优化: forge:gems/amethyst 标签已迁至 tags.js，避免多处重复注册
+ServerEvents.tags('item', event => {
+  event.add("forge:gems/amethyst", 'tconstruct:ichor_slime_crystal')
+})
 
 BlockEvents.rightClicked('minecraft:obsidian', event => {
   if (event.getItem().hasTag("forge:gems/amethyst")){

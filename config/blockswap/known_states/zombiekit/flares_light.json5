@@ -1,0 +1,434 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "0"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "1"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "2"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "3"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "4"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "5"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "6"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "7"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "8"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "9"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "10"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "11"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "12"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "13"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "14"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "15"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "16"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "17"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "18"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "19"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "20"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "21"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "22"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "23"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "24"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "25"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "26"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "27"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "28"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "29"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "30"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "31"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "32"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "33"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "34"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "35"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "36"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "37"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "38"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "39"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "40"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "41"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "42"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "43"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "44"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "45"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "46"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "47"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "48"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "49"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "50"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "51"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "52"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "53"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "54"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "55"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "56"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "57"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "58"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_time": "59"
+		},
+		"Name": "zombiekit:flares_light"
+	},
+	{
+		"Name": "zombiekit:flares_light"
+	}
+]

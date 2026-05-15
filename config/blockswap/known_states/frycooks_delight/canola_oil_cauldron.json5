@@ -1,0 +1,222 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "2",
+			"level": "1"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "3",
+			"level": "1"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "4",
+			"level": "1"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "5",
+			"level": "1"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "6",
+			"level": "1"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "7",
+			"level": "1"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "8",
+			"level": "1"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "9",
+			"level": "1"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "1",
+			"level": "2"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "2",
+			"level": "2"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "3",
+			"level": "2"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "4",
+			"level": "2"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "5",
+			"level": "2"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "6",
+			"level": "2"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "7",
+			"level": "2"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "8",
+			"level": "2"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "9",
+			"level": "2"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "1",
+			"level": "3"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "2",
+			"level": "3"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "3",
+			"level": "3"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "4",
+			"level": "3"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "5",
+			"level": "3"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "6",
+			"level": "3"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "7",
+			"level": "3"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "8",
+			"level": "3"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"oil_stage": "9",
+			"level": "3"
+		},
+		"Name": "frycooks_delight:canola_oil_cauldron"
+	}
+]

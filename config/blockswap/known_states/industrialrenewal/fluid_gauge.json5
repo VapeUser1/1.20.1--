@@ -1,0 +1,198 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "south",
+			"facing": "north"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "west",
+			"facing": "north"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "east",
+			"facing": "north"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "north",
+			"facing": "east"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "south",
+			"facing": "east"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "west",
+			"facing": "east"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "east",
+			"facing": "east"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "north",
+			"facing": "south"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "south",
+			"facing": "south"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "west",
+			"facing": "south"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "east",
+			"facing": "south"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "north",
+			"facing": "west"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "south",
+			"facing": "west"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "west",
+			"facing": "west"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "east",
+			"facing": "west"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "north",
+			"facing": "up"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "south",
+			"facing": "up"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "west",
+			"facing": "up"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "east",
+			"facing": "up"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "north",
+			"facing": "down"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "south",
+			"facing": "down"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "west",
+			"facing": "down"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"gauge": "east",
+			"facing": "down"
+		},
+		"Name": "industrialrenewal:fluid_gauge"
+	}
+]

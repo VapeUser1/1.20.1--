@@ -1,0 +1,70 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "industrialrenewal:razor_wire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"frame": "false",
+			"facing": "north"
+		},
+		"Name": "industrialrenewal:razor_wire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"frame": "true",
+			"facing": "south"
+		},
+		"Name": "industrialrenewal:razor_wire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"frame": "false",
+			"facing": "south"
+		},
+		"Name": "industrialrenewal:razor_wire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"frame": "true",
+			"facing": "west"
+		},
+		"Name": "industrialrenewal:razor_wire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"frame": "false",
+			"facing": "west"
+		},
+		"Name": "industrialrenewal:razor_wire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"frame": "true",
+			"facing": "east"
+		},
+		"Name": "industrialrenewal:razor_wire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"frame": "false",
+			"facing": "east"
+		},
+		"Name": "industrialrenewal:razor_wire"
+	}
+]

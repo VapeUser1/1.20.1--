@@ -1,0 +1,964 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "down"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "up"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "north"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "south"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "west"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "true",
+			"mirrored": "true",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "false",
+			"mirrored": "true",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "true",
+			"mirrored": "false",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"open": "false",
+			"mirrored": "false",
+			"facing": "east"
+		},
+		"Name": "immersivetechnology:valve_limiter"
+	}
+]

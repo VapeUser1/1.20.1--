@@ -1,0 +1,246 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "single",
+			"axis": "x"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "center",
+			"axis": "x"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "side_t",
+			"axis": "x"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "side_r",
+			"axis": "x"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "side_b",
+			"axis": "x"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "side_l",
+			"axis": "x"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "corner_tr",
+			"axis": "x"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "corner_br",
+			"axis": "x"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "corner_bl",
+			"axis": "x"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "corner_tl",
+			"axis": "x"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "single",
+			"axis": "y"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "center",
+			"axis": "y"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "side_t",
+			"axis": "y"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "side_r",
+			"axis": "y"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "side_b",
+			"axis": "y"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "side_l",
+			"axis": "y"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "corner_tr",
+			"axis": "y"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "corner_br",
+			"axis": "y"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "corner_bl",
+			"axis": "y"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "corner_tl",
+			"axis": "y"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "center",
+			"axis": "z"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "side_t",
+			"axis": "z"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "side_r",
+			"axis": "z"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "side_b",
+			"axis": "z"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "side_l",
+			"axis": "z"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "corner_tr",
+			"axis": "z"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "corner_br",
+			"axis": "z"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "corner_bl",
+			"axis": "z"
+		},
+		"Name": "northstar:large_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"patch": "corner_tl",
+			"axis": "z"
+		},
+		"Name": "northstar:large_fan"
+	}
+]

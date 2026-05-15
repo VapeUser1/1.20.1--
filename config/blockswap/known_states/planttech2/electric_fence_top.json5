@@ -1,0 +1,518 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "0"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "0"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "0"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "1"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "1"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "1"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "1"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "2"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "2"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "2"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "2"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "3"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "3"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "3"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "3"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "4"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "4"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "4"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "4"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "5"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "5"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "5"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "5"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "6"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "6"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "6"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "6"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "7"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "7"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "7"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "7"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "8"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "8"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "8"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "8"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "9"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "9"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "9"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "9"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "10"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "10"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "10"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "10"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "11"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "11"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "11"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "11"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "12"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "12"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "12"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "12"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "13"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "13"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "13"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "13"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "14"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "14"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "14"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "14"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"electric_power": "15"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"electric_power": "15"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"electric_power": "15"
+		},
+		"Name": "planttech2:electric_fence_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"electric_power": "15"
+		},
+		"Name": "planttech2:electric_fence_top"
+	}
+]

@@ -234,6 +234,26 @@
     // Default value: [false]
     creative: false
   },
+  mekanism: {
+    // config.waila.plugin_mekanism.energy
+    // Default value: [true]
+    energy: true,
+    // config.waila.plugin_mekanism.fluid
+    // Default value: [true]
+    fluid: true,
+    // config.waila.plugin_mekanism.gas
+    // Default value: [true]
+    gas: true,
+    // config.waila.plugin_mekanism.infuse_type
+    // Default value: [true]
+    infuse_type: true,
+    // config.waila.plugin_mekanism.pigment
+    // Default value: [true]
+    pigment: true,
+    // config.waila.plugin_mekanism.slurry
+    // Default value: [true]
+    slurry: true
+  },
   harvestability: {
     // Enable Minimal Mode
     // Default value: [false]
@@ -297,26 +317,6 @@
     // Unharvestable Only
     // Default value: [false]
     unharvestable_only: false
-  },
-  mekanism: {
-    // config.waila.plugin_mekanism.energy
-    // Default value: [true]
-    energy: true,
-    // config.waila.plugin_mekanism.fluid
-    // Default value: [true]
-    fluid: true,
-    // config.waila.plugin_mekanism.gas
-    // Default value: [true]
-    gas: true,
-    // config.waila.plugin_mekanism.infuse_type
-    // Default value: [true]
-    infuse_type: true,
-    // config.waila.plugin_mekanism.pigment
-    // Default value: [true]
-    pigment: true,
-    // config.waila.plugin_mekanism.slurry
-    // Default value: [true]
-    slurry: true
   },
   wailax: {
     // 显示方块能量

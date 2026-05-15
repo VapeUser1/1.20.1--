@@ -1,0 +1,1538 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "true",
+			"inverted": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "true",
+			"inverted": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "true",
+			"left": "false",
+			"inverted": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "true",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"up": "false",
+			"right": "false",
+			"left": "false",
+			"inverted": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "industrialrenewal:electric_gate"
+	}
+]
